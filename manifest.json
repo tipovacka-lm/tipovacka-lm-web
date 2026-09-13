@@ -1,7 +1,7 @@
 {
-  "fingerprint": "ca5ad46be2c58b903313d9167240f8d90bd6477f962e64d47e3d315bf3dc9b97",
-  "path": "versions/ca5ad46be2c58b903313d9167240f8d90bd6477f962e64d47e3d315bf3dc9b97.json",
-  "generatedAt": "2026-09-13T20:07:43.536678+00:00",
-  "publishedAt": "2026-09-13T20:08:47.993130+00:00",
-  "previousFingerprint": null
+  "fingerprint": "6f9e21db378f9982742ca11a90080c53d46168bf7b952c2b9b16d099206034f0",
+  "path": "versions/6f9e21db378f9982742ca11a90080c53d46168bf7b952c2b9b16d099206034f0.json",
+  "generatedAt": "2026-09-13T20:15:42.658733+00:00",
+  "publishedAt": "2026-09-13T20:16:49.879451+00:00",
+  "previousFingerprint": "ca5ad46be2c58b903313d9167240f8d90bd6477f962e64d47e3d315bf3dc9b97"
 }
