@@ -8546,17 +8546,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-24T12:15:44.749225+00:00",
+  "generatedAt": "2026-09-25T12:15:32.908804+00:00",
   "fingerprint": "60a284aa8ec27dbe3c4dee5c93262a42373d1f7240d5a024355768779d6d8758",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-09-24T12:15:44.749314+00:00",
-    "lastDataChangeAt": "2026-09-24T12:15:44.749225+00:00",
+    "lastSuccessfulRunAt": "2026-09-25T12:15:32.908873+00:00",
+    "lastDataChangeAt": "2026-09-25T12:15:32.908804+00:00",
     "fingerprint": "60a284aa8ec27dbe3c4dee5c93262a42373d1f7240d5a024355768779d6d8758",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-09-24T12:14:41.555183+00:00",
-      "whatsappFetchedAt": "2026-09-24T12:14:42.433Z"
+      "footballFetchedAt": "2026-09-25T12:14:38.599638+00:00",
+      "whatsappFetchedAt": "2026-09-25T12:14:39.263Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
