@@ -5,6 +5,7 @@
     "Andy",
     "Pospec",
     "Maara",
+    "Usťa",
     "Giorgio",
     "Mudras",
     "Závodka",
@@ -6935,6 +6936,93 @@
           "submitted": true
         },
         {
+          "alias": "Usťa",
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "manual_review",
+              "suggestions": []
+            },
+            {
+              "status": "manual_review",
+              "suggestions": []
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "pending",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "pending",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false,
+          "submitted": false
+        },
+        {
           "alias": "Giorgio",
           "imported": true,
           "tips": [
@@ -8366,6 +8454,91 @@
           "roundWinner": false
         },
         {
+          "alias": "Usťa",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
           "alias": "Giorgio",
           "submitted": false,
           "imported": false,
@@ -9414,6 +9587,91 @@
         },
         {
           "alias": "Maara",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
+          "alias": "Usťa",
           "submitted": false,
           "imported": false,
           "tips": [
@@ -10630,6 +10888,91 @@
           "roundWinner": false
         },
         {
+          "alias": "Usťa",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
           "alias": "Giorgio",
           "submitted": false,
           "imported": false,
@@ -11678,6 +12021,91 @@
         },
         {
           "alias": "Maara",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
+          "alias": "Usťa",
           "submitted": false,
           "imported": false,
           "tips": [
@@ -12894,6 +13322,91 @@
           "roundWinner": false
         },
         {
+          "alias": "Usťa",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
           "alias": "Giorgio",
           "submitted": false,
           "imported": false,
@@ -13942,6 +14455,91 @@
         },
         {
           "alias": "Maara",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
+          "alias": "Usťa",
           "submitted": false,
           "imported": false,
           "tips": [
@@ -15158,6 +15756,91 @@
           "roundWinner": false
         },
         {
+          "alias": "Usťa",
+          "submitted": false,
+          "imported": false,
+          "tips": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "doubleIndex": null,
+          "players": [
+            "",
+            ""
+          ],
+          "matchPoints": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "playerPoints": [
+            0,
+            0
+          ],
+          "playerCompleted": [
+            false,
+            false
+          ],
+          "playerUnresolved": [
+            false,
+            false
+          ],
+          "playerStatuses": [
+            {
+              "status": "hidden"
+            },
+            {
+              "status": "hidden"
+            }
+          ],
+          "playerBreakdowns": [
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            },
+            {
+              "status": "hidden",
+              "components": [],
+              "total": 0
+            }
+          ],
+          "total": 0,
+          "exactDouble": 0,
+          "roundWinner": false
+        },
+        {
           "alias": "Giorgio",
           "submitted": false,
           "imported": false,
@@ -15848,13 +16531,24 @@
       "total": 166.5,
       "rank": 10,
       "finance": -3500
+    },
+    {
+      "alias": "Usťa",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 0,
+      "total": 0,
+      "rank": 11,
+      "finance": 0
     }
   ],
   "news": {
     "round": 1,
     "groupMoment": null
   },
-  "missingRound1": [],
+  "missingRound1": [
+    "Usťa"
+  ],
   "master": "Google Sheets",
   "format": {
     "roundCount": 17,
@@ -16263,17 +16957,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-11T12:15:49.881831+00:00",
-  "fingerprint": "b5e307b9b4526be626a37443f4e58d9ada28355e6a08acf9dd270344e598bb82",
+  "generatedAt": "2026-10-11T17:18:42.946319+00:00",
+  "fingerprint": "ad4d4f19020ad68985fe2aa24a284bd9c427ae64f4c6ed68721e44d58baf2fd0",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-11T12:15:49.881964+00:00",
-    "lastDataChangeAt": "2026-10-11T12:15:49.881831+00:00",
-    "fingerprint": "b5e307b9b4526be626a37443f4e58d9ada28355e6a08acf9dd270344e598bb82",
+    "lastSuccessfulRunAt": "2026-10-11T17:18:42.946461+00:00",
+    "lastDataChangeAt": "2026-10-11T17:18:42.946319+00:00",
+    "fingerprint": "ad4d4f19020ad68985fe2aa24a284bd9c427ae64f4c6ed68721e44d58baf2fd0",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-11T12:14:50.954358+00:00",
-      "whatsappFetchedAt": "2026-10-11T12:14:51.682Z"
+      "footballFetchedAt": "2026-10-11T17:17:57.947438+00:00",
+      "whatsappFetchedAt": "2026-10-11T17:17:58.732Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
