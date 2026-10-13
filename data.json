@@ -8662,35 +8662,35 @@
       "entries": [
         {
           "alias": "Andy",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:2",
+            "1:1",
+            "1:2",
+            "1:4",
+            "2:1",
+            "2:1",
+            "2:1",
+            "3:2",
+            "1:3",
+            "1:3",
+            "1:1",
+            "1:2",
+            "1:3",
+            "2:1",
+            "2:2",
+            "2:1",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Michael Olise",
+            "Harry Kane"
           ],
           "matchPoints": [
-            0,
-            0,
+            4,
+            2,
             0,
             0,
             0,
@@ -8722,11 +8722,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Michael Olise",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             }
           ],
@@ -8742,41 +8750,41 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 6,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Pospec",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:2",
+            "0:3",
+            "2:1",
+            "2:0",
+            "2:0",
+            "2:1",
+            "1:3",
+            "0:2",
+            "2:1",
+            "2:2",
+            "1:2",
+            "2:1",
+            "2:0",
+            "1:1",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Erling Haaland"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -8809,11 +8817,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Erling Haaland",
               "suggestions": []
             }
           ],
@@ -8829,41 +8845,41 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Maara",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:2",
+            "1:1",
+            "0:4",
+            "2:1",
+            "3:1",
+            "3:0",
+            "3:1",
+            "1:3",
+            "1:2",
+            "1:2",
+            "1:2",
+            "1:3",
+            "2:1",
+            "3:1",
+            "1:1",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Lautaro Martínez"
           ],
           "matchPoints": [
-            0,
+            12,
             0,
             0,
             0,
@@ -8896,11 +8912,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Internazionale",
+              "sourceName": "Lautaro Martínez",
               "suggestions": []
             }
           ],
@@ -8916,10 +8940,10 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Usťa",
@@ -9010,34 +9034,34 @@
         },
         {
           "alias": "Giorgio",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:3",
+            "1:1",
+            "0:4",
+            "1:1",
+            "3:1",
+            "2:1",
+            "2:1",
+            "1:3",
+            "1:3",
+            "1:2",
+            "1:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Michael Olise"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -9070,11 +9094,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Michael Olise",
               "suggestions": []
             }
           ],
@@ -9090,42 +9122,42 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Mudras",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "1:1",
+            "1:2",
+            "0:3",
+            "2:1",
+            "2:1",
+            "2:0",
+            "2:1",
+            "1:3",
+            "0:2",
+            "1:1",
+            "1:2",
+            "0:2",
+            "2:2",
+            "2:1",
+            "2:2",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Raphinha",
+            "Lamine Yamal"
           ],
           "matchPoints": [
-            0,
-            0,
+            12,
+            2,
             0,
             0,
             0,
@@ -9157,11 +9189,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Lamine Yamal",
               "suggestions": []
             }
           ],
@@ -9177,41 +9217,41 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 14,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Závodka",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:2",
+            "1:2",
+            "1:1",
+            "0:4",
+            "2:1",
+            "2:1",
+            "2:0",
+            "3:2",
+            "1:3",
+            "0:2",
+            "2:3",
+            "2:2",
+            "1:3",
+            "2:0",
+            "2:1",
+            "2:1",
+            "1:0",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Lamine Yamal"
           ],
           "matchPoints": [
-            0,
+            4,
             0,
             0,
             0,
@@ -9244,11 +9284,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Lamine Yamal",
               "suggestions": []
             }
           ],
@@ -9264,41 +9312,41 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 4,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Dvorek",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:1",
+            "1:3",
+            "2:1",
+            "3:1",
+            "2:1",
+            "2:1",
+            "1:3",
+            "0:2",
+            "2:1",
+            "2:2",
+            "1:2",
+            "1:1",
+            "2:2",
+            "2:1",
+            "2:1",
+            "1:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Michael Olise"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -9331,11 +9379,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Michael Olise",
               "suggestions": []
             }
           ],
@@ -9351,41 +9407,41 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Jayda",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:1",
+            "0:3",
+            "2:1",
+            "2:0",
+            "2:0",
+            "2:1",
+            "1:3",
+            "0:2",
+            "1:1",
+            "1:2",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Michael Olise"
           ],
           "matchPoints": [
-            0,
+            2,
             0,
             0,
             0,
@@ -9418,11 +9474,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Michael Olise",
               "suggestions": []
             }
           ],
@@ -9438,38 +9502,38 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 2,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "JR",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "2:1",
+            "0:3",
+            "2:1",
+            "2:0",
+            "3:1",
+            "2:0",
+            "1:4",
+            "1:2",
+            "1:1",
+            "1:1",
+            "1:3",
+            "1:1",
+            "2:1",
+            "2:1",
+            "3:0",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 3,
           "players": [
-            "",
-            ""
+            "Harry Kane",
+            "Lamine Yamal"
           ],
           "matchPoints": [
             0,
@@ -9505,11 +9569,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Lamine Yamal",
               "suggestions": []
             }
           ],
@@ -9528,35 +9600,35 @@
           "total": 0,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         },
         {
           "alias": "Mráva",
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "1:1",
+            "0:4",
+            "1:0",
+            "3:1",
+            "2:0",
+            "1:1",
+            "1:3",
+            "0:3",
+            "1:1",
+            "1:2",
+            "0:3",
+            "2:1",
+            "2:1",
+            "0:2",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 5,
           "players": [
-            "",
-            ""
+            "Bradley Barcola",
+            "Marcus Thuram"
           ],
           "matchPoints": [
             0,
@@ -9592,11 +9664,19 @@
           ],
           "playerStatuses": [
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Bradley Barcola",
               "suggestions": []
             },
             {
-              "status": "manual_review",
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Internazionale",
+              "sourceName": "Marcus Thuram",
               "suggestions": []
             }
           ],
@@ -9615,11 +9695,11 @@
           "total": 0,
           "exactDouble": 0,
           "roundWinner": false,
-          "submitted": false
+          "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
+      "max": 14,
       "tipsRevealed": true
     },
     {
@@ -16927,38 +17007,38 @@
   ],
   "standings": [
     {
+      "alias": "Mudras",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 16,
+      "total": 215,
+      "rank": 1,
+      "finance": 8000
+    },
+    {
       "alias": "JR",
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 23.5,
       "total": 207.5,
-      "rank": 1,
-      "finance": 8000
-    },
-    {
-      "alias": "Mudras",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 16,
-      "total": 201,
       "rank": 2,
       "finance": 4000
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 17,
-      "total": 185,
-      "rank": 3,
-      "finance": 1500
     },
     {
       "alias": "Maara",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 14,
-      "total": 183,
+      "total": 195,
+      "rank": 3,
+      "finance": 1500
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 17,
+      "total": 191,
       "rank": 4,
       "finance": -500
     },
@@ -16967,7 +17047,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 17,
-      "total": 180,
+      "total": 182,
       "rank": 5,
       "finance": -1000
     },
@@ -16976,9 +17056,18 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 17.5,
-      "total": 177.5,
+      "total": 179.5,
       "rank": 6,
       "finance": -1500
+    },
+    {
+      "alias": "Dvorek",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 15.5,
+      "total": 177.5,
+      "rank": 7,
+      "finance": -2000
     },
     {
       "alias": "Mráva",
@@ -16986,15 +17075,6 @@
       "exactDoubles": 0,
       "playerPoints": 15.5,
       "total": 176.5,
-      "rank": 7,
-      "finance": -2000
-    },
-    {
-      "alias": "Dvorek",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 15.5,
-      "total": 175.5,
       "rank": 8,
       "finance": -2500
     },
@@ -17003,7 +17083,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 5,
-      "total": 169,
+      "total": 171,
       "rank": 9,
       "finance": -3000
     },
@@ -17012,7 +17092,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 21.5,
-      "total": 166.5,
+      "total": 170.5,
       "rank": 10,
       "finance": -3500
     },
@@ -17441,17 +17521,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-13T19:54:53.851228+00:00",
-  "fingerprint": "790cf1ba8aed2e1254bcfec204644c8e6bcc48452a0c946f50dff36435a37063",
+  "generatedAt": "2026-10-13T20:10:53.912058+00:00",
+  "fingerprint": "536b797da1c232c5aa7a3fef93b89534a04a78bc9f5ec707201d9e0f0f85686e",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-13T19:54:53.851474+00:00",
-    "lastDataChangeAt": "2026-10-13T19:54:53.851228+00:00",
-    "fingerprint": "790cf1ba8aed2e1254bcfec204644c8e6bcc48452a0c946f50dff36435a37063",
+    "lastSuccessfulRunAt": "2026-10-13T20:10:53.912201+00:00",
+    "lastDataChangeAt": "2026-10-13T20:10:53.912058+00:00",
+    "fingerprint": "536b797da1c232c5aa7a3fef93b89534a04a78bc9f5ec707201d9e0f0f85686e",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-13T19:53:43.742178+00:00",
-      "whatsappFetchedAt": "2026-10-13T19:53:44.702Z"
+      "footballFetchedAt": "2026-10-13T20:09:50.575846+00:00",
+      "whatsappFetchedAt": "2026-10-13T20:09:51.393Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -17467,15 +17547,15 @@
       "lateEvents": 0,
       "publicationVerification": "pending_external_confirmation",
       "whatsappIssues": 0,
-      "auditReasons": {
-        "incomplete_tip_block": 12
-      },
+      "auditReasons": {},
       "playerResolution": {
         "statuses": {
+          "pending": 20,
           "resolved": 20
         },
         "methods": {
-          "exact": 20
+          "exact": 20,
+          "provider_id": 20
         },
         "completedRoundReviews": 0,
         "fuzzyMatches": 0,
