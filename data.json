@@ -2185,6 +2185,13 @@
       "position": "Center Right Defender"
     },
     {
+      "providerId": "406923",
+      "catalogId": "espn:406923",
+      "name": "Jivayno Zinhagel",
+      "team": "Feyenoord Rotterdam",
+      "position": "Substitute"
+    },
+    {
       "providerId": "226979",
       "catalogId": "espn:226979",
       "name": "Liam Bossin",
@@ -2731,6 +2738,13 @@
       "position": "Center Right Midfielder"
     },
     {
+      "providerId": "318956",
+      "catalogId": "espn:318956",
+      "name": "Samuel Adeniran",
+      "team": "LASK Linz",
+      "position": "Forward"
+    },
+    {
       "providerId": "259131",
       "catalogId": "espn:259131",
       "name": "Sasa Kalajdzic",
@@ -3214,6 +3228,20 @@
       "position": "Center Right Defender"
     },
     {
+      "providerId": "102053",
+      "catalogId": "espn:102053",
+      "name": "Joe Gomez",
+      "team": "Liverpool",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "395890",
+      "catalogId": "espn:395890",
+      "name": "Joshua Lambie",
+      "team": "Liverpool",
+      "position": "Substitute"
+    },
+    {
       "providerId": "226177",
       "catalogId": "espn:226177",
       "name": "Kostas Tsimikas",
@@ -3287,6 +3315,13 @@
       "providerId": "152479",
       "catalogId": "espn:152479",
       "name": "Wataru Endo",
+      "team": "Liverpool",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "379855",
+      "catalogId": "espn:379855",
+      "name": "Wellity Lucky",
       "team": "Liverpool",
       "position": "Substitute"
     },
@@ -17234,17 +17269,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-14T13:10:40.736908+00:00",
-  "fingerprint": "f4ce6641240b3ac97efb6ba335753a5079da7224faf268d1d9522a56d43c474d",
+  "generatedAt": "2026-10-14T16:40:45.716461+00:00",
+  "fingerprint": "06aa3e7fcd7c2023806a78c4cc53f553b54f8aa79fc5cb873263844b38c5f3df",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-14T13:10:40.737075+00:00",
-    "lastDataChangeAt": "2026-10-14T13:10:40.736908+00:00",
-    "fingerprint": "f4ce6641240b3ac97efb6ba335753a5079da7224faf268d1d9522a56d43c474d",
+    "lastSuccessfulRunAt": "2026-10-14T16:40:45.716610+00:00",
+    "lastDataChangeAt": "2026-10-14T16:40:45.716461+00:00",
+    "fingerprint": "06aa3e7fcd7c2023806a78c4cc53f553b54f8aa79fc5cb873263844b38c5f3df",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-14T13:09:57.525039+00:00",
-      "whatsappFetchedAt": "2026-10-14T13:09:58.336Z"
+      "footballFetchedAt": "2026-10-14T16:39:53.221350+00:00",
+      "whatsappFetchedAt": "2026-10-14T16:39:54.370Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
