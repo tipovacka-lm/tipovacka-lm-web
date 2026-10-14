@@ -593,7 +593,7 @@
       "catalogId": "espn:386992",
       "name": "Johan Manzambi",
       "team": "Aston Villa",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder"
     },
     {
       "providerId": "162843",
@@ -642,7 +642,7 @@
       "catalogId": "espn:234698",
       "name": "Matty Cash",
       "team": "Aston Villa",
-      "position": "Defender"
+      "position": "Right Back"
     },
     {
       "providerId": "308524",
@@ -1961,6 +1961,13 @@
       "position": "Center Right Defender"
     },
     {
+      "providerId": "375383",
+      "catalogId": "espn:375383",
+      "name": "Oskar Pietuszewski",
+      "team": "FC Porto",
+      "position": "Substitute"
+    },
+    {
       "providerId": "223776",
       "catalogId": "espn:223776",
       "name": "Pablo Rosario",
@@ -1973,6 +1980,13 @@
       "name": "Pepê",
       "team": "FC Porto",
       "position": "Left Forward"
+    },
+    {
+      "providerId": "364815",
+      "catalogId": "espn:364815",
+      "name": "Samu Aghehowa",
+      "team": "FC Porto",
+      "position": "Substitute"
     },
     {
       "providerId": "260775",
@@ -2003,11 +2017,25 @@
       "position": "Substitute"
     },
     {
+      "providerId": "373520",
+      "catalogId": "espn:373520",
+      "name": "Victor Froholdt",
+      "team": "FC Porto",
+      "position": "Right Midfielder"
+    },
+    {
       "providerId": "376664",
       "catalogId": "espn:376664",
       "name": "William Gomes",
       "team": "FC Porto",
       "position": "Right Forward"
+    },
+    {
+      "providerId": "289513",
+      "catalogId": "espn:289513",
+      "name": "Zaidu Sanusi",
+      "team": "FC Porto",
+      "position": "Substitute"
     },
     {
       "providerId": "320982",
@@ -2070,7 +2098,7 @@
       "catalogId": "espn:248676",
       "name": "Matteo Guendouzi",
       "team": "Fenerbahce",
-      "position": "Midfielder"
+      "position": "Left Midfielder"
     },
     {
       "providerId": "124880",
@@ -4464,7 +4492,7 @@
       "catalogId": "espn:300912",
       "name": "Abde Ezzalzouli",
       "team": "Real Betis",
-      "position": "Midfielder"
+      "position": "Attacking Midfielder Left"
     },
     {
       "providerId": "283827",
@@ -8763,9 +8791,9 @@
           "away": "Liverpool",
           "id": "ucl-2-401915415",
           "kickoff": "2026-10-14T16:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 6,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
           "goals": [
@@ -8800,6 +8828,46 @@
               "minute": "51'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Robert Ljubicic",
+              "assist": "Yvan Dibango",
+              "minute": "63'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Bradley Barcola",
+              "assist": "Jeremie Frimpong",
+              "minute": "66'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Lewis Koumas",
+              "assist": "Jeremie Frimpong",
+              "minute": "72'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Florian Flecker",
+              "assist": "Yvan Dibango",
+              "minute": "74'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Florian Flecker",
+              "assist": "Yvan Dibango",
+              "minute": "77'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915415"
@@ -8811,9 +8879,9 @@
           "away": "Como",
           "id": "ucl-2-401915416",
           "kickoff": "2026-10-14T16:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
           "goals": [
@@ -8840,6 +8908,22 @@
               "minute": "52'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Feyenoord Rotterdam",
+              "scorer": "Robert Sánchez",
+              "assist": "",
+              "minute": "81'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Anastasios Douvikas",
+              "assist": "",
+              "minute": "90'+3'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915416"
@@ -8851,12 +8935,21 @@
           "away": "Borussia Dortmund",
           "id": "ucl-2-401915393",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bodo/Glimt",
+              "scorer": "Fredrik Sjøvold",
+              "assist": "Sondre Auklend",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915393"
         },
         {
@@ -8866,12 +8959,37 @@
           "away": "VfB Stuttgart",
           "id": "ucl-2-401915405",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "VfB Stuttgart",
+              "scorer": "Deniz Undav",
+              "assist": "Angelo Stiller",
+              "minute": "29'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "VfB Stuttgart",
+              "scorer": "Sandro Cruz",
+              "assist": "",
+              "minute": "64'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "VfB Stuttgart",
+              "scorer": "Ermedin Demirovic",
+              "assist": "Lorenz Assignon",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915405"
         },
         {
@@ -8881,12 +8999,45 @@
           "away": "AEK Athens",
           "id": "ucl-2-401915406",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "AEK Athens",
+              "scorer": "Lovro Majer",
+              "assist": "Stavros Pilios",
+              "minute": "28'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Shakhtar Donetsk",
+              "scorer": "Pedrinho",
+              "assist": "",
+              "minute": "34'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Shakhtar Donetsk",
+              "scorer": "Vinicius Augusto",
+              "assist": "Alisson Santana",
+              "minute": "80'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Shakhtar Donetsk",
+              "scorer": "Gleiker Mendoza",
+              "assist": "Isaque",
+              "minute": "86'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915406"
         },
         {
@@ -8896,12 +9047,61 @@
           "away": "Paris Saint-Germain",
           "id": "ucl-2-401915407",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Désiré Doué",
+              "assist": "Fabián Ruiz",
+              "minute": "13'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Ousmane Dembélé",
+              "assist": "Désiré Doué",
+              "minute": "15'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Vitinha",
+              "assist": "Warren Zaïre-Emery",
+              "minute": "32'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "Iliman Ndiaye",
+              "minute": "53'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Maghnes Akliouche",
+              "assist": "Ousmane Dembélé",
+              "minute": "62'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "Ayyoub Bouaddi",
+              "minute": "75'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915407"
         },
         {
@@ -8911,12 +9111,53 @@
           "away": "FC Porto",
           "id": "ucl-2-401915408",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Real Betis",
+              "scorer": "Abde Ezzalzouli",
+              "assist": "Fran García",
+              "minute": "47'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "FC Porto",
+              "scorer": "Gabri Veiga",
+              "assist": "",
+              "minute": "54'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "FC Porto",
+              "scorer": "Samu Aghehowa",
+              "assist": "Pepê",
+              "minute": "61'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Betis",
+              "scorer": "Cucho Hernández",
+              "assist": "Antony",
+              "minute": "74'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Betis",
+              "scorer": "Isco",
+              "assist": "",
+              "minute": "84'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401915408"
         },
         {
@@ -8926,12 +9167,61 @@
           "away": "Fenerbahce",
           "id": "ucl-2-401915409",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 6,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Aston Villa",
+              "scorer": "Johan Manzambi",
+              "assist": "",
+              "minute": "12'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Nicolas Jackson",
+              "assist": "Boubacar Kamara",
+              "minute": "31'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Nicolas Jackson",
+              "assist": "Ross Barkley",
+              "minute": "39'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Ross Barkley",
+              "assist": "",
+              "minute": "68'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Ross Barkley",
+              "assist": "Ibrahim Mbaye",
+              "minute": "72'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Tammy Abraham",
+              "assist": "Alysson",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915409"
         },
         {
@@ -8941,12 +9231,69 @@
           "away": "Real Madrid",
           "id": "ucl-2-401915414",
           "kickoff": "2026-10-14T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "AS Roma",
+              "scorer": "Marten de Roon",
+              "assist": "Matìas Soulè",
+              "minute": "20'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Kylian Mbappé",
+              "assist": "Yan Diomande",
+              "minute": "25'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "AS Roma",
+              "scorer": "Donyell Malen",
+              "assist": "Rodrigo Mora",
+              "minute": "51'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "AS Roma",
+              "scorer": "Donyell Malen",
+              "assist": "Matìas Soulè",
+              "minute": "57'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Carlos Espí",
+              "assist": "",
+              "minute": "83'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Endrick",
+              "assist": "Arda Güler",
+              "minute": "85'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Antonio Rüdiger",
+              "assist": "Arda Güler",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915414"
         }
       ],
@@ -8989,15 +9336,15 @@
             11,
             9,
             12,
+            8,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12,
+            12,
+            4,
+            11,
+            8,
+            9
           ],
           "playerPoints": [
             -2,
@@ -9073,7 +9420,7 @@
               "total": 5
             }
           ],
-          "total": 53,
+          "total": 117,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9116,15 +9463,15 @@
             12,
             11,
             12,
+            6.5,
+            11,
+            0,
+            11,
+            12,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            8,
+            9
           ],
           "playerPoints": [
             9,
@@ -9132,7 +9479,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9148,7 +9495,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "excluded_by_rule",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -9182,12 +9529,12 @@
               "total": 9
             },
             {
-              "status": "pending",
+              "status": "excluded_by_rule",
               "components": [],
               "total": 0
             }
           ],
-          "total": 64,
+          "total": 121.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9230,15 +9577,15 @@
             30,
             10,
             12,
+            7,
             0,
             0,
+            12,
+            12,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
+            8,
+            9
           ],
           "playerPoints": [
             9,
@@ -9314,9 +9661,9 @@
               "total": 6.5
             }
           ],
-          "total": 95.5,
+          "total": 143.5,
           "exactDouble": 1,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -9357,14 +9704,14 @@
             11,
             11,
             12,
+            8,
+            0,
+            5,
+            11,
+            4,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            8,
             0
           ],
           "playerPoints": [
@@ -9441,7 +9788,7 @@
               "total": -1.5
             }
           ],
-          "total": 49.5,
+          "total": 85.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9484,15 +9831,15 @@
             12,
             11,
             12,
+            6.5,
             0,
             0,
+            12,
+            2,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            5,
+            8,
+            9
           ],
           "playerPoints": [
             0,
@@ -9549,7 +9896,7 @@
               "total": 3.5
             }
           ],
-          "total": 70.5,
+          "total": 113.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9592,15 +9939,15 @@
             12,
             9,
             12,
+            6.5,
             0,
             0,
+            12,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            8.5,
+            9
           ],
           "playerPoints": [
             9,
@@ -9676,7 +10023,7 @@
               "total": 3.5
             }
           ],
-          "total": 65.5,
+          "total": 123.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9719,14 +10066,14 @@
             22,
             11,
             12,
+            6.5,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            4,
+            4,
+            11,
+            8,
             0
           ],
           "playerPoints": [
@@ -9803,7 +10150,7 @@
               "total": -1.5
             }
           ],
-          "total": 74.5,
+          "total": 130.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9846,15 +10193,15 @@
             12,
             11,
             12,
+            6.5,
             0,
             0,
+            11,
+            4,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            8,
+            9
           ],
           "playerPoints": [
             9,
@@ -9930,7 +10277,7 @@
               "total": -1.5
             }
           ],
-          "total": 66.5,
+          "total": 116.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9973,15 +10320,15 @@
             12,
             12,
             15,
+            7,
             0,
+            5,
+            12,
+            4,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            10,
+            9
           ],
           "playerPoints": [
             9,
@@ -10057,7 +10404,7 @@
               "total": 3.5
             }
           ],
-          "total": 81.5,
+          "total": 139.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -10100,22 +10447,22 @@
             12,
             5,
             12,
+            7.5,
             0,
             0,
+            15,
+            12,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
+            8,
+            9
           ],
           "playerPoints": [
-            0,
+            16,
             0.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -10124,7 +10471,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Liverpool",
@@ -10142,9 +10489,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 3,
+                  "weight": 5,
+                  "points": 15
+                }
+              ],
+              "total": 16
             },
             {
               "status": "resolved",
@@ -10159,14 +10519,14 @@
               "total": 0.5
             }
           ],
-          "total": 45.5,
+          "total": 113.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 95.5,
+      "complete": true,
+      "max": 143.5,
       "tipsRevealed": true
     },
     {
@@ -16968,16 +17328,16 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 36,
-      "total": 289,
+      "total": 347,
       "rank": 1,
       "finance": 8000
     },
     {
       "alias": "Maara",
-      "roundWins": 0,
+      "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 29.5,
-      "total": 278.5,
+      "total": 326.5,
       "rank": 2,
       "finance": 4000
     },
@@ -16986,7 +17346,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 19.5,
-      "total": 271.5,
+      "total": 314,
       "rank": 3,
       "finance": 1500
     },
@@ -16995,61 +17355,61 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 23,
-      "total": 250,
+      "total": 305.5,
       "rank": 4,
       "finance": -500
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 26.5,
-      "total": 241.5,
-      "rank": 5,
-      "finance": -1000
     },
     {
       "alias": "Andy",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 20,
-      "total": 238,
-      "rank": 6,
-      "finance": -1500
+      "total": 302,
+      "rank": 5,
+      "finance": -1000
     },
     {
-      "alias": "Jayda",
+      "alias": "Pospec",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 12.5,
-      "total": 235.5,
-      "rank": 7,
-      "finance": -2000
+      "playerPoints": 26.5,
+      "total": 299,
+      "rank": 6,
+      "finance": -1500
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 232,
+      "total": 290,
+      "rank": 7,
+      "finance": -2000
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 32,
+      "total": 289.5,
       "rank": 8,
       "finance": -2500
+    },
+    {
+      "alias": "Jayda",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 12.5,
+      "total": 285,
+      "rank": 9,
+      "finance": -3000
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 24.5,
-      "total": 229.5,
-      "rank": 9,
-      "finance": -3000
-    },
-    {
-      "alias": "Mráva",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 16,
-      "total": 222,
+      "total": 265.5,
       "rank": 10,
       "finance": -3500
     }
@@ -17467,17 +17827,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-14T18:03:41.659235+00:00",
-  "fingerprint": "ae207b6b40dc10997dd60aa2c4141b2ecc3ed3887d0fb14815283633eede62e9",
+  "generatedAt": "2026-10-14T21:21:49.490394+00:00",
+  "fingerprint": "2e5a42d343c3484ceb91f6e360344a56d213c0e4cdae604a6bc6e9c24c88255c",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-14T18:03:41.659390+00:00",
-    "lastDataChangeAt": "2026-10-14T18:03:41.659235+00:00",
-    "fingerprint": "ae207b6b40dc10997dd60aa2c4141b2ecc3ed3887d0fb14815283633eede62e9",
+    "lastSuccessfulRunAt": "2026-10-14T21:21:49.490579+00:00",
+    "lastDataChangeAt": "2026-10-14T21:21:49.490394+00:00",
+    "fingerprint": "2e5a42d343c3484ceb91f6e360344a56d213c0e4cdae604a6bc6e9c24c88255c",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-14T18:02:53.840902+00:00",
-      "whatsappFetchedAt": "2026-10-14T18:02:54.773Z"
+      "footballFetchedAt": "2026-10-14T21:20:42.024565+00:00",
+      "whatsappFetchedAt": "2026-10-14T21:20:42.926Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -17497,8 +17857,8 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "pending": 2,
-          "resolved": 37
+          "excluded_by_rule": 1,
+          "resolved": 38
         },
         "methods": {
           "exact": 24,
