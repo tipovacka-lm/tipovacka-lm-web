@@ -8340,9 +8340,9 @@
           "away": "Napoli",
           "id": "ucl-2-401915410",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
           "goals": [
@@ -8369,6 +8369,14 @@
               "minute": "26'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Villarreal",
+              "scorer": "Tani Oluwaseyi",
+              "assist": "Ayoze Pérez",
+              "minute": "86'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915410"
@@ -8380,9 +8388,9 @@
           "away": "Bayern Munich",
           "id": "ucl-2-401915411",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
           "goals": [
@@ -8401,6 +8409,38 @@
               "minute": "38'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Bayern Munich",
+              "scorer": "Harry Kane",
+              "assist": "",
+              "minute": "54'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Bayern Munich",
+              "scorer": "Harry Kane",
+              "assist": "Joshua Kimmich",
+              "minute": "60'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bayern Munich",
+              "scorer": "Luis Díaz",
+              "assist": "Konrad Laimer",
+              "minute": "71'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Herman Haugen",
+              "assist": "Zlatko Tripic",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915411"
@@ -8412,9 +8452,9 @@
           "away": "Manchester United",
           "id": "ucl-2-401915412",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "goals": [
@@ -8423,6 +8463,14 @@
               "scorer": "Pablo Barrios",
               "assist": "Álex Baena",
               "minute": "1'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Atlético Madrid",
+              "scorer": "Ademola Lookman",
+              "assist": "",
+              "minute": "79'",
               "ownGoal": false,
               "penalty": false
             }
@@ -8436,9 +8484,9 @@
           "away": "Club Brugge",
           "id": "ucl-2-401915413",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
           "goals": [
@@ -8457,6 +8505,46 @@
               "minute": "44'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Nicolo Tresoldi",
+              "assist": "Carlos Forbs",
+              "minute": "63'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Nicolo Tresoldi",
+              "assist": "",
+              "minute": "74'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Internazionale",
+              "scorer": "Lautaro Martínez",
+              "assist": "",
+              "minute": "81'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Romeo Vermant",
+              "assist": "Carlos Forbs",
+              "minute": "87'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Internazionale",
+              "scorer": "Ange-Yoan Bonny",
+              "assist": "Aleksandar Stankovic",
+              "minute": "90'+3'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915413"
@@ -8468,12 +8556,37 @@
           "away": "Lille",
           "id": "ucl-2-401915417",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Arsenal",
+              "scorer": "Jurriën Timber",
+              "assist": "Noni Madueke",
+              "minute": "64'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Arsenal",
+              "scorer": "Eberechi Eze",
+              "assist": "Bukayo Saka",
+              "minute": "67'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Arsenal",
+              "scorer": "Bukayo Saka",
+              "assist": "Kai Havertz",
+              "minute": "71'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915417"
         },
         {
@@ -8483,12 +8596,21 @@
           "away": "PSV Eindhoven",
           "id": "ucl-2-401915434",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "RB Leipzig",
+              "scorer": "Brajan Gruda",
+              "assist": "",
+              "minute": "75'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915434"
         },
         {
@@ -8498,9 +8620,9 @@
           "away": "Barcelona",
           "id": "ucl-2-401915435",
           "kickoff": "2026-10-13T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
           "goals": [
@@ -8517,6 +8639,30 @@
               "scorer": "João Cancelo",
               "assist": "Dani Olmo",
               "minute": "43'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Fermín López",
+              "assist": "Lamine Yamal",
+              "minute": "50'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Anthony Gordon",
+              "assist": "Lamine Yamal",
+              "minute": "53'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Karim Adeyemi",
+              "assist": "",
+              "minute": "65'",
               "ownGoal": false,
               "penalty": false
             }
@@ -8693,11 +8839,11 @@
             2,
             0,
             0,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            9,
+            12,
             0,
             0,
             0,
@@ -8709,12 +8855,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            -2,
+            5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -8722,7 +8868,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -8730,7 +8876,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -8740,17 +8886,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -3,
+                  "points": -3
+                }
+              ],
+              "total": -2
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 5
             }
           ],
-          "total": 6,
+          "total": 53,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -8787,12 +8965,12 @@
             2,
             0,
             0,
+            6,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            12,
             0,
             0,
             0,
@@ -8804,11 +8982,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            9,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -8817,7 +8995,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -8835,9 +9013,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
               "status": "pending",
@@ -8845,7 +9042,7 @@
               "total": 0
             }
           ],
-          "total": 2,
+          "total": 64,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -8881,13 +9078,13 @@
           "matchPoints": [
             12,
             0,
+            4,
             0,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            30,
+            10,
+            12,
             0,
             0,
             0,
@@ -8899,12 +9096,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            6.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -8912,7 +9109,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -8920,7 +9117,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Internazionale",
@@ -8930,18 +9127,50 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                }
+              ],
+              "total": 6.5
             }
           ],
-          "total": 12,
-          "exactDouble": 0,
+          "total": 95.5,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -9063,13 +9292,13 @@
           "matchPoints": [
             2,
             0,
+            4,
             0,
+            2,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            12,
             0,
             0,
             0,
@@ -9081,12 +9310,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            -1.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9094,7 +9323,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9102,7 +9331,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9112,17 +9341,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -2,
+                  "points": -2
+                }
+              ],
+              "total": -1.5
             }
           ],
-          "total": 2,
+          "total": 49.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9159,12 +9420,12 @@
             12,
             2,
             0,
+            6,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            12,
             0,
             0,
             0,
@@ -9177,11 +9438,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9189,7 +9450,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -9197,7 +9458,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -9207,17 +9468,30 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 2,
+                  "weight": 1.5,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 14,
+          "total": 70.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9253,13 +9527,13 @@
           "matchPoints": [
             4,
             0,
+            4,
             0,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            9,
+            12,
             0,
             0,
             0,
@@ -9271,12 +9545,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9284,7 +9558,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9292,7 +9566,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -9302,17 +9576,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 2,
+                  "weight": 1.5,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 4,
+          "total": 65.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9348,13 +9654,13 @@
           "matchPoints": [
             2,
             0,
+            4,
+            4,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            22,
+            11,
+            12,
             0,
             0,
             0,
@@ -9366,12 +9672,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            -1.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9379,7 +9685,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9387,7 +9693,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9397,17 +9703,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -2,
+                  "points": -2
+                }
+              ],
+              "total": -1.5
             }
           ],
-          "total": 2,
+          "total": 74.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9443,13 +9781,13 @@
           "matchPoints": [
             2,
             0,
+            4,
+            6,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            11,
+            12,
             0,
             0,
             0,
@@ -9461,12 +9799,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            -1.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9474,7 +9812,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9482,7 +9820,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -9492,17 +9830,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "red",
+                  "count": 1,
+                  "weight": -2,
+                  "points": -2
+                }
+              ],
+              "total": -1.5
             }
           ],
-          "total": 2,
+          "total": 66.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9538,13 +9908,13 @@
           "matchPoints": [
             0,
             0,
+            12,
+            6,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            12,
+            15,
             0,
             0,
             0,
@@ -9556,12 +9926,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9569,16 +9939,16 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
-              "resolution": "provider_id",
+              "status": "resolved",
+              "resolution": "exact",
               "confidence": 1,
               "team": "Bayern Munich",
               "sourceName": "Harry Kane",
               "suggestions": []
             },
             {
-              "status": "pending",
-              "resolution": "provider_id",
+              "status": "resolved",
+              "resolution": "exact",
               "confidence": 1,
               "team": "Barcelona",
               "sourceName": "Lamine Yamal",
@@ -9587,17 +9957,49 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "assist",
+                  "count": 2,
+                  "weight": 1.5,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 0,
+          "total": 81.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -9633,13 +10035,13 @@
           "matchPoints": [
             0,
             0,
+            4,
             0,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            12,
+            5,
+            12,
             0,
             0,
             0,
@@ -9652,11 +10054,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -9665,15 +10067,15 @@
           "playerStatuses": [
             {
               "status": "pending",
-              "resolution": "provider_id",
+              "resolution": "exact",
               "confidence": 1,
               "team": "Liverpool",
               "sourceName": "Bradley Barcola",
               "suggestions": []
             },
             {
-              "status": "pending",
-              "resolution": "provider_id",
+              "status": "resolved",
+              "resolution": "exact",
               "confidence": 1,
               "team": "Internazionale",
               "sourceName": "Marcus Thuram",
@@ -9687,19 +10089,26 @@
               "total": 0
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 45.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 14,
+      "max": 95.5,
       "tipsRevealed": true
     },
     {
@@ -17007,92 +17416,92 @@
   ],
   "standings": [
     {
-      "alias": "Mudras",
-      "roundWins": 0,
+      "alias": "JR",
+      "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 16,
-      "total": 215,
+      "playerPoints": 36,
+      "total": 289,
       "rank": 1,
       "finance": 8000
     },
     {
-      "alias": "JR",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 23.5,
-      "total": 207.5,
+      "alias": "Maara",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 29.5,
+      "total": 278.5,
       "rank": 2,
       "finance": 4000
     },
     {
-      "alias": "Maara",
+      "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 14,
-      "total": 195,
+      "playerPoints": 19.5,
+      "total": 271.5,
       "rank": 3,
       "finance": 1500
-    },
-    {
-      "alias": "Andy",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 17,
-      "total": 191,
-      "rank": 4,
-      "finance": -500
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 17,
-      "total": 182,
-      "rank": 5,
-      "finance": -1000
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 17.5,
-      "total": 179.5,
-      "rank": 6,
-      "finance": -1500
     },
     {
       "alias": "Dvorek",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 15.5,
-      "total": 177.5,
-      "rank": 7,
-      "finance": -2000
+      "playerPoints": 23,
+      "total": 250,
+      "rank": 4,
+      "finance": -500
     },
     {
-      "alias": "Mráva",
+      "alias": "Pospec",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 15.5,
-      "total": 176.5,
-      "rank": 8,
-      "finance": -2500
+      "playerPoints": 26.5,
+      "total": 241.5,
+      "rank": 5,
+      "finance": -1000
+    },
+    {
+      "alias": "Andy",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 20,
+      "total": 238,
+      "rank": 6,
+      "finance": -1500
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 5,
-      "total": 171,
-      "rank": 9,
-      "finance": -3000
+      "playerPoints": 12.5,
+      "total": 235.5,
+      "rank": 7,
+      "finance": -2000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 21.5,
-      "total": 170.5,
+      "playerPoints": 34,
+      "total": 232,
+      "rank": 8,
+      "finance": -2500
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 24.5,
+      "total": 229.5,
+      "rank": 9,
+      "finance": -3000
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 16,
+      "total": 222,
       "rank": 10,
       "finance": -3500
     },
@@ -17521,17 +17930,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-13T20:10:53.912058+00:00",
-  "fingerprint": "536b797da1c232c5aa7a3fef93b89534a04a78bc9f5ec707201d9e0f0f85686e",
+  "generatedAt": "2026-10-14T07:10:52.223673+00:00",
+  "fingerprint": "a2fe9a1b6e98e72d3e2b5454fb97c37117408a4fc639fcc5b280fcb5d792f907",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-13T20:10:53.912201+00:00",
-    "lastDataChangeAt": "2026-10-13T20:10:53.912058+00:00",
-    "fingerprint": "536b797da1c232c5aa7a3fef93b89534a04a78bc9f5ec707201d9e0f0f85686e",
+    "lastSuccessfulRunAt": "2026-10-14T07:10:52.223825+00:00",
+    "lastDataChangeAt": "2026-10-14T07:10:52.223673+00:00",
+    "fingerprint": "a2fe9a1b6e98e72d3e2b5454fb97c37117408a4fc639fcc5b280fcb5d792f907",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-13T20:09:50.575846+00:00",
-      "whatsappFetchedAt": "2026-10-13T20:09:51.393Z"
+      "footballFetchedAt": "2026-10-14T07:09:53.496406+00:00",
+      "whatsappFetchedAt": "2026-10-14T07:09:54.265Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -17550,12 +17959,13 @@
       "auditReasons": {},
       "playerResolution": {
         "statuses": {
-          "pending": 20,
-          "resolved": 20
+          "did_not_play": 1,
+          "pending": 2,
+          "resolved": 37
         },
         "methods": {
-          "exact": 20,
-          "provider_id": 20
+          "exact": 24,
+          "provider_id": 16
         },
         "completedRoundReviews": 0,
         "fuzzyMatches": 0,
