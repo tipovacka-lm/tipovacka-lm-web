@@ -358,6 +358,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "234300",
+      "catalogId": "espn:234300",
+      "name": "Devis Vásquez",
+      "team": "AS Roma",
+      "position": "Substitute"
+    },
+    {
       "providerId": "297300",
       "catalogId": "espn:297300",
       "name": "Devyne Rensch",
@@ -410,6 +417,13 @@
       "providerId": "271555",
       "catalogId": "espn:271555",
       "name": "Leonardo Balerdi",
+      "team": "AS Roma",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "204320",
+      "catalogId": "espn:204320",
+      "name": "Lorenzo Pellegrini",
       "team": "AS Roma",
       "position": "Substitute"
     },
@@ -575,6 +589,13 @@
       "position": "Left Midfielder"
     },
     {
+      "providerId": "386992",
+      "catalogId": "espn:386992",
+      "name": "Johan Manzambi",
+      "team": "Aston Villa",
+      "position": "Midfielder"
+    },
+    {
       "providerId": "162843",
       "catalogId": "espn:162843",
       "name": "John McGinn",
@@ -585,6 +606,13 @@
       "providerId": "310607",
       "catalogId": "espn:310607",
       "name": "Lamare Bogarde",
+      "team": "Aston Villa",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "174550",
+      "catalogId": "espn:174550",
+      "name": "Leon Goretzka",
       "team": "Aston Villa",
       "position": "Substitute"
     },
@@ -614,7 +642,7 @@
       "catalogId": "espn:234698",
       "name": "Matty Cash",
       "team": "Aston Villa",
-      "position": "Right Back"
+      "position": "Defender"
     },
     {
       "providerId": "308524",
@@ -1247,6 +1275,13 @@
       "position": "Right Midfielder"
     },
     {
+      "providerId": "218466",
+      "catalogId": "espn:218466",
+      "name": "Jostein Gundersen",
+      "team": "Bodo/Glimt",
+      "position": "Center Right Defender"
+    },
+    {
       "providerId": "227625",
       "catalogId": "espn:227625",
       "name": "Julian Faye Lund",
@@ -1366,6 +1401,13 @@
       "position": "Center Left Midfielder"
     },
     {
+      "providerId": "387437",
+      "catalogId": "espn:387437",
+      "name": "Filippo Mané",
+      "team": "Borussia Dortmund",
+      "position": "Substitute"
+    },
+    {
       "providerId": "238544",
       "catalogId": "espn:238544",
       "name": "Gregor Kobel",
@@ -1448,6 +1490,13 @@
       "name": "Patrick Drewes",
       "team": "Borussia Dortmund",
       "position": "Substitute"
+    },
+    {
+      "providerId": "220703",
+      "catalogId": "espn:220703",
+      "name": "Ramy Bensebaini",
+      "team": "Borussia Dortmund",
+      "position": "Center Left Defender"
     },
     {
       "providerId": "403833",
@@ -2015,6 +2064,13 @@
       "name": "Mason Greenwood",
       "team": "Fenerbahce",
       "position": "Right Forward"
+    },
+    {
+      "providerId": "248676",
+      "catalogId": "espn:248676",
+      "name": "Matteo Guendouzi",
+      "team": "Fenerbahce",
+      "position": "Midfielder"
     },
     {
       "providerId": "124880",
@@ -3410,6 +3466,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "283672",
+      "catalogId": "espn:283672",
+      "name": "Jérémy Doku",
+      "team": "Manchester City",
+      "position": "Attacking Midfielder Left"
+    },
+    {
       "providerId": "299910",
       "catalogId": "espn:299910",
       "name": "Josko Gvardiol",
@@ -3463,7 +3526,7 @@
       "catalogId": "espn:328464",
       "name": "Nico O'Reilly",
       "team": "Manchester City",
-      "position": "Attacking Midfielder"
+      "position": "Substitute"
     },
     {
       "providerId": "303745",
@@ -3884,6 +3947,13 @@
       "name": "Achraf Hakimi",
       "team": "Paris Saint-Germain",
       "position": "Right Back"
+    },
+    {
+      "providerId": "3143886",
+      "catalogId": "espn:3143886",
+      "name": "Adam Mouak",
+      "team": "Paris Saint-Germain",
+      "position": "Substitute"
     },
     {
       "providerId": "336388",
@@ -4390,6 +4460,13 @@
       "position": "Center Right Defender"
     },
     {
+      "providerId": "300912",
+      "catalogId": "espn:300912",
+      "name": "Abde Ezzalzouli",
+      "team": "Real Betis",
+      "position": "Midfielder"
+    },
+    {
       "providerId": "283827",
       "catalogId": "espn:283827",
       "name": "Álvaro Fidalgo",
@@ -4435,6 +4512,13 @@
       "providerId": "279660",
       "catalogId": "espn:279660",
       "name": "Diego Conde",
+      "team": "Real Betis",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "181530",
+      "catalogId": "espn:181530",
+      "name": "Diego Llorente",
       "team": "Real Betis",
       "position": "Substitute"
     },
@@ -4572,9 +4656,23 @@
       "position": "Substitute"
     },
     {
+      "providerId": "310452",
+      "catalogId": "espn:310452",
+      "name": "Arda Güler",
+      "team": "Real Madrid",
+      "position": "Substitute"
+    },
+    {
       "providerId": "265919",
       "catalogId": "espn:265919",
       "name": "Aurélien Tchouaméni",
+      "team": "Real Madrid",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "199833",
+      "catalogId": "espn:199833",
+      "name": "Bernardo Silva",
       "team": "Real Madrid",
       "position": "Substitute"
     },
@@ -4605,6 +4703,13 @@
       "name": "Denzel Dumfries",
       "team": "Real Madrid",
       "position": "Right Back"
+    },
+    {
+      "providerId": "285150",
+      "catalogId": "espn:285150",
+      "name": "Eduardo Camavinga",
+      "team": "Real Madrid",
+      "position": "Substitute"
     },
     {
       "providerId": "346612",
@@ -4887,6 +4992,13 @@
       "position": "Attacking Midfielder Right"
     },
     {
+      "providerId": "417344",
+      "catalogId": "espn:417344",
+      "name": "Bruninho",
+      "team": "Shakhtar Donetsk",
+      "position": "Substitute"
+    },
+    {
       "providerId": "326670",
       "catalogId": "espn:326670",
       "name": "Dmytro Kryskiv",
@@ -5004,6 +5116,13 @@
       "name": "Pedrinho",
       "team": "Shakhtar Donetsk",
       "position": "Left Back"
+    },
+    {
+      "providerId": "253821",
+      "catalogId": "espn:253821",
+      "name": "Pedrinho",
+      "team": "Shakhtar Donetsk",
+      "position": "Center Right Midfielder"
     },
     {
       "providerId": "276070",
@@ -5629,6 +5748,13 @@
       "position": "Attacking Midfielder Right"
     },
     {
+      "providerId": "362585",
+      "catalogId": "espn:362585",
+      "name": "Dennis Seimen",
+      "team": "VfB Stuttgart",
+      "position": "Substitute"
+    },
+    {
       "providerId": "345905",
       "catalogId": "espn:345905",
       "name": "Dzenan Pejcinovic",
@@ -5697,6 +5823,20 @@
       "name": "Leo Sauer",
       "team": "VfB Stuttgart",
       "position": ""
+    },
+    {
+      "providerId": "308461",
+      "catalogId": "espn:308461",
+      "name": "Lorenz Assignon",
+      "team": "VfB Stuttgart",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "332574",
+      "catalogId": "espn:332574",
+      "name": "Luca Jaquez",
+      "team": "VfB Stuttgart",
+      "position": "Substitute"
     },
     {
       "providerId": "238129",
@@ -8628,7 +8768,40 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Liverpool",
+              "scorer": "Ronald Araújo",
+              "assist": "Kostas Tsimikas",
+              "minute": "22'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Bradley Barcola",
+              "assist": "Lewis Koumas",
+              "minute": "24'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Bradley Barcola",
+              "assist": "Florian Wirtz",
+              "minute": "37'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Jeremie Frimpong",
+              "assist": "Kostas Tsimikas",
+              "minute": "51'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915415"
         },
         {
@@ -8643,7 +8816,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Como",
+              "scorer": "Assane Diao",
+              "assist": "Jacobo Ramón",
+              "minute": "18'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Feyenoord Rotterdam",
+              "scorer": "Gjivai Zechiël",
+              "assist": "Luciano Valente",
+              "minute": "20'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Feyenoord Rotterdam",
+              "scorer": "Anis Hadj Moussa",
+              "assist": "Gaoussou Diarra",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915416"
         },
         {
@@ -17269,17 +17467,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-14T16:40:45.716461+00:00",
-  "fingerprint": "06aa3e7fcd7c2023806a78c4cc53f553b54f8aa79fc5cb873263844b38c5f3df",
+  "generatedAt": "2026-10-14T18:03:41.659235+00:00",
+  "fingerprint": "ae207b6b40dc10997dd60aa2c4141b2ecc3ed3887d0fb14815283633eede62e9",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-14T16:40:45.716610+00:00",
-    "lastDataChangeAt": "2026-10-14T16:40:45.716461+00:00",
-    "fingerprint": "06aa3e7fcd7c2023806a78c4cc53f553b54f8aa79fc5cb873263844b38c5f3df",
+    "lastSuccessfulRunAt": "2026-10-14T18:03:41.659390+00:00",
+    "lastDataChangeAt": "2026-10-14T18:03:41.659235+00:00",
+    "fingerprint": "ae207b6b40dc10997dd60aa2c4141b2ecc3ed3887d0fb14815283633eede62e9",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-14T16:39:53.221350+00:00",
-      "whatsappFetchedAt": "2026-10-14T16:39:54.370Z"
+      "footballFetchedAt": "2026-10-14T18:02:53.840902+00:00",
+      "whatsappFetchedAt": "2026-10-14T18:02:54.773Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
