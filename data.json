@@ -9475,7 +9475,7 @@
           ],
           "playerPoints": [
             9,
-            0
+            6.5
           ],
           "playerCompleted": [
             true,
@@ -9495,7 +9495,7 @@
               "suggestions": []
             },
             {
-              "status": "excluded_by_rule",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -9529,12 +9529,25 @@
               "total": 9
             },
             {
-              "status": "excluded_by_rule",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                }
+              ],
+              "total": 6.5
             }
           ],
-          "total": 121.5,
+          "total": 128.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -17351,13 +17364,22 @@
       "finance": 1500
     },
     {
+      "alias": "Pospec",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 33,
+      "total": 305.5,
+      "rank": 4,
+      "finance": -500
+    },
+    {
       "alias": "Dvorek",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 23,
       "total": 305.5,
-      "rank": 4,
-      "finance": -500
+      "rank": 5,
+      "finance": -1000
     },
     {
       "alias": "Andy",
@@ -17365,15 +17387,6 @@
       "exactDoubles": 0,
       "playerPoints": 20,
       "total": 302,
-      "rank": 5,
-      "finance": -1000
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 26.5,
-      "total": 299,
       "rank": 6,
       "finance": -1500
     },
@@ -17415,7 +17428,7 @@
     }
   ],
   "news": {
-    "round": 1,
+    "round": 2,
     "groupMoment": null
   },
   "missingRound1": [],
@@ -17827,17 +17840,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-14T21:44:38.368153+00:00",
-  "fingerprint": "2e5a42d343c3484ceb91f6e360344a56d213c0e4cdae604a6bc6e9c24c88255c",
+  "generatedAt": "2026-10-15T10:17:40.057557+00:00",
+  "fingerprint": "09cabec270fae8bcb7f6b510f1c781248a76ed871dcbcb5058970db5c464db36",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-14T21:44:38.368309+00:00",
-    "lastDataChangeAt": "2026-10-14T21:44:38.368153+00:00",
-    "fingerprint": "2e5a42d343c3484ceb91f6e360344a56d213c0e4cdae604a6bc6e9c24c88255c",
+    "lastSuccessfulRunAt": "2026-10-15T10:17:40.057710+00:00",
+    "lastDataChangeAt": "2026-10-15T10:17:40.057557+00:00",
+    "fingerprint": "09cabec270fae8bcb7f6b510f1c781248a76ed871dcbcb5058970db5c464db36",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-14T21:43:57.757180+00:00",
-      "whatsappFetchedAt": "2026-10-14T21:43:58.835Z"
+      "footballFetchedAt": "2026-10-15T10:16:42.226691+00:00",
+      "whatsappFetchedAt": "2026-10-15T10:16:43.040Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -17857,8 +17870,7 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "excluded_by_rule": 1,
-          "resolved": 38
+          "resolved": 39
         },
         "methods": {
           "exact": 24,
