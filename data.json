@@ -11246,7 +11246,7 @@
         },
         {
           "alias": "Závodka",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -11586,7 +11586,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -17840,17 +17840,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-15T10:17:40.057557+00:00",
-  "fingerprint": "09cabec270fae8bcb7f6b510f1c781248a76ed871dcbcb5058970db5c464db36",
+  "generatedAt": "2026-10-18T12:02:44.835299+00:00",
+  "fingerprint": "a68896fc9bfd5adf8eab9a0bad77b2ba0425fb8ea9143c5e40888038b437e2c4",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-15T10:17:40.057710+00:00",
-    "lastDataChangeAt": "2026-10-15T10:17:40.057557+00:00",
-    "fingerprint": "09cabec270fae8bcb7f6b510f1c781248a76ed871dcbcb5058970db5c464db36",
+    "lastSuccessfulRunAt": "2026-10-18T12:02:44.835482+00:00",
+    "lastDataChangeAt": "2026-10-18T12:02:44.835299+00:00",
+    "fingerprint": "a68896fc9bfd5adf8eab9a0bad77b2ba0425fb8ea9143c5e40888038b437e2c4",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-15T10:16:42.226691+00:00",
-      "whatsappFetchedAt": "2026-10-15T10:16:43.040Z"
+      "footballFetchedAt": "2026-10-18T12:01:53.533240+00:00",
+      "whatsappFetchedAt": "2026-10-18T12:01:55.329Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
