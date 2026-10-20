@@ -1384,7 +1384,7 @@
       "catalogId": "espn:401450",
       "name": "Enzo De Pina Duarte Dos Santos",
       "team": "Borussia Dortmund",
-      "position": "Substitute"
+      "position": ""
     },
     {
       "providerId": "349733",
@@ -1412,7 +1412,7 @@
       "catalogId": "espn:387437",
       "name": "Filippo Mané",
       "team": "Borussia Dortmund",
-      "position": "Substitute"
+      "position": ""
     },
     {
       "providerId": "238544",
@@ -1510,7 +1510,7 @@
       "catalogId": "espn:220703",
       "name": "Ramy Bensebaini",
       "team": "Borussia Dortmund",
-      "position": "Center Left Defender"
+      "position": "Center Defender"
     },
     {
       "providerId": "403833",
@@ -10580,7 +10580,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Fenerbahce",
+              "scorer": "Oguz Aydin",
+              "assist": "Milan Skriniar",
+              "minute": "4'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Fenerbahce",
+              "scorer": "Mason Greenwood",
+              "assist": "Nélson Semedo",
+              "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Slavia Prague",
+              "scorer": "Lukás Provod",
+              "assist": "",
+              "minute": "15'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915403"
         },
         {
@@ -10595,7 +10620,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Borussia Dortmund",
+              "scorer": "Serhou Guirassy",
+              "assist": "",
+              "minute": "10'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Sabah FK",
+              "scorer": "Aden Mccarthy",
+              "assist": "Tymoteusz Puchacz",
+              "minute": "39'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Borussia Dortmund",
+              "scorer": "Serhou Guirassy",
+              "assist": "Joey Veerman",
+              "minute": "53'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915404"
         },
         {
@@ -10842,32 +10892,31 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "3:1",
+            "1:2",
+            "2:2",
+            "2:1",
+            "2:1",
+            "3:2",
+            "2:1",
+            "4:1",
+            "4:1",
+            "2:1",
+            "2:2",
+            "2:1",
+            "3:1",
+            "2:1",
+            "2:1",
+            "3:1",
+            "3:1",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Donyell Malen",
+            "Rayan Cherki"
           ],
           "matchPoints": [
             0,
@@ -10903,56 +10952,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pospec",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "3:0",
+            "2:1",
+            "1:1",
+            "2:0",
+            "2:1",
+            "2:2",
+            "2:1",
+            "4:0",
+            "3:0",
+            "2:1",
+            "2:1",
+            "2:1",
+            "3:0",
+            "2:1",
+            "2:0",
+            "3:0",
+            "2:0",
+            "3:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Erling Haaland",
+            "Donyell Malen"
           ],
           "matchPoints": [
             0,
@@ -10988,56 +11047,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Erling Haaland",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Maara",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "3:0",
+            "0:2",
+            "1:2",
+            "3:1",
+            "2:1",
+            "1:3",
+            "2:0",
+            "3:0",
+            "3:0",
+            "2:1",
+            "1:1",
+            "2:2",
+            "3:0",
+            "2:1",
+            "3:1",
+            "3:1",
+            "3:0",
+            "3:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Luis Suárez",
+            "Donyell Malen"
           ],
           "matchPoints": [
             0,
@@ -11073,56 +11142,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Sporting CP",
+              "sourceName": "Luis Suárez",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Giorgio",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "3:0",
+            "4:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "3:1",
+            "1:1",
+            "2:1",
+            "3:1",
+            "2:1",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Donyell Malen",
+            "Phil Foden"
           ],
           "matchPoints": [
             0,
@@ -11158,56 +11237,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Phil Foden",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mudras",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "3:1",
+            "1:2",
+            "0:2",
+            "2:0",
+            "2:1",
+            "2:2",
+            "2:1",
+            "4:0",
+            "3:0",
+            "1:1",
+            "1:2",
+            "2:2",
+            "2:0",
+            "2:1",
+            "2:0",
+            "3:1",
+            "2:1",
+            "2:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Donyell Malen",
+            "Bradley Barcola"
           ],
           "matchPoints": [
             0,
@@ -11243,56 +11332,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Liverpool",
+              "sourceName": "Bradley Barcola",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Závodka",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "0:2",
+            "1:3",
+            "2:1",
+            "2:1",
+            "2:3",
+            "1:2",
+            "3:0",
+            "3:0",
+            "1:1",
+            "2:2",
+            "1:2",
+            "3:1",
+            "2:1",
+            "3:2",
+            "2:1",
+            "3:0",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 8,
           "players": [
-            "",
-            ""
+            "Erling Haaland",
+            "Donyell Malen"
           ],
           "matchPoints": [
             0,
@@ -11328,56 +11427,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Erling Haaland",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dvorek",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "1:2",
+            "1:2",
+            "1:1",
+            "2:1",
+            "2:2",
+            "1:1",
+            "2:1",
+            "4:1",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "3:1",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 17,
           "players": [
-            "",
-            ""
+            "Donyell Malen",
+            "Rayan Cherki"
           ],
           "matchPoints": [
             0,
@@ -11413,56 +11522,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Jayda",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "0:2",
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:2",
+            "2:1",
+            "3:0",
+            "2:0",
+            "2:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:1",
+            "2:0",
+            "2:1",
+            "2:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Rayan Cherki",
+            "Phil Foden"
           ],
           "matchPoints": [
             0,
@@ -11498,56 +11617,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Phil Foden",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "JR",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "3:1",
+            "1:2",
+            "1:2",
+            "3:1",
+            "2:0",
+            "3:2",
+            "2:1",
+            "3:0",
+            "3:0",
+            "2:1",
+            "2:1",
+            "2:1",
+            "3:1",
+            "1:1",
+            "2:1",
+            "2:0",
+            "2:0",
+            "3:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 7,
           "players": [
-            "",
-            ""
+            "Donyell Malen",
+            "Rayan Cherki"
           ],
           "matchPoints": [
             0,
@@ -11583,56 +11712,66 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "AS Roma",
+              "sourceName": "Donyell Malen",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Rayan Cherki",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mráva",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "0:2",
+            "1:1",
+            "3:1",
+            "2:1",
+            "1:2",
+            "2:0",
+            "3:0",
+            "3:0",
+            "2:1",
+            "1:2",
+            "3:1",
+            "2:1",
+            "2:2",
+            "2:1",
+            "3:1",
+            "3:1",
+            "3:0"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 17,
           "players": [
-            "",
-            ""
+            "Luis Suárez",
+            "Harry Kane"
           ],
           "matchPoints": [
             0,
@@ -11668,32 +11807,43 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Sporting CP",
+              "sourceName": "Luis Suárez",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Bayern Munich",
+              "sourceName": "Harry Kane",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
           "total": 0,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         }
       ],
       "complete": false,
       "max": 0,
-      "tipsRevealed": false
+      "tipsRevealed": true
     },
     {
       "round": 4,
@@ -17861,17 +18011,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-20T16:28:55.708376+00:00",
-  "fingerprint": "f5bc930b65705e926f1ad2ffa4efd4e435b99745274d213c6f46ab17dae9401d",
+  "generatedAt": "2026-10-20T18:01:50.723160+00:00",
+  "fingerprint": "3e2d9f90c16b17767b8d834ccbe6d95f75cb02451398595cce36b582c381d518",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-20T16:28:55.708578+00:00",
-    "lastDataChangeAt": "2026-10-20T16:28:55.708376+00:00",
-    "fingerprint": "f5bc930b65705e926f1ad2ffa4efd4e435b99745274d213c6f46ab17dae9401d",
+    "lastSuccessfulRunAt": "2026-10-20T18:01:50.723316+00:00",
+    "lastDataChangeAt": "2026-10-20T18:01:50.723160+00:00",
+    "fingerprint": "3e2d9f90c16b17767b8d834ccbe6d95f75cb02451398595cce36b582c381d518",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-20T16:27:06.750745+00:00",
-      "whatsappFetchedAt": "2026-10-20T16:27:08.322Z"
+      "footballFetchedAt": "2026-10-20T18:00:54.427756+00:00",
+      "whatsappFetchedAt": "2026-10-20T18:00:55.496Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -17891,11 +18041,12 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
+          "pending": 20,
           "resolved": 39
         },
         "methods": {
-          "exact": 24,
-          "provider_id": 16
+          "exact": 28,
+          "provider_id": 32
         },
         "completedRoundReviews": 0,
         "fuzzyMatches": 0,
