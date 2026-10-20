@@ -1380,6 +1380,13 @@
       "position": "Center Left Defender"
     },
     {
+      "providerId": "401450",
+      "catalogId": "espn:401450",
+      "name": "Enzo De Pina Duarte Dos Santos",
+      "team": "Borussia Dortmund",
+      "position": "Substitute"
+    },
+    {
       "providerId": "349733",
       "catalogId": "espn:349733",
       "name": "Ethan Nwaneri",
@@ -1483,6 +1490,13 @@
       "name": "Maximilian Beier",
       "team": "Borussia Dortmund",
       "position": "Left Midfielder"
+    },
+    {
+      "providerId": "286828",
+      "catalogId": "espn:286828",
+      "name": "Nico Schlotterbeck",
+      "team": "Borussia Dortmund",
+      "position": "Center Right Defender"
     },
     {
       "providerId": "174521",
@@ -4920,6 +4934,13 @@
       "name": "Kaheem Parris",
       "team": "Sabah FK",
       "position": "Right Forward"
+    },
+    {
+      "providerId": "374108",
+      "catalogId": "espn:374108",
+      "name": "Khayal Aliyev",
+      "team": "Sabah FK",
+      "position": "Substitute"
     },
     {
       "providerId": "308907",
@@ -10821,7 +10842,7 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -10906,7 +10927,7 @@
         },
         {
           "alias": "Pospec",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -10991,7 +11012,7 @@
         },
         {
           "alias": "Maara",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -11076,7 +11097,7 @@
         },
         {
           "alias": "Giorgio",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -11331,7 +11352,7 @@
         },
         {
           "alias": "Dvorek",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -17840,17 +17861,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-20T13:08:52.278834+00:00",
-  "fingerprint": "c06244c9bd812fd46dc51610b5e0ab760e8fc2f39596dda96b6e61a5d478aa1b",
+  "generatedAt": "2026-10-20T16:28:55.708376+00:00",
+  "fingerprint": "f5bc930b65705e926f1ad2ffa4efd4e435b99745274d213c6f46ab17dae9401d",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-20T13:08:52.279012+00:00",
-    "lastDataChangeAt": "2026-10-20T13:08:52.278834+00:00",
-    "fingerprint": "c06244c9bd812fd46dc51610b5e0ab760e8fc2f39596dda96b6e61a5d478aa1b",
+    "lastSuccessfulRunAt": "2026-10-20T16:28:55.708578+00:00",
+    "lastDataChangeAt": "2026-10-20T16:28:55.708376+00:00",
+    "fingerprint": "f5bc930b65705e926f1ad2ffa4efd4e435b99745274d213c6f46ab17dae9401d",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-20T13:06:54.509640+00:00",
-      "whatsappFetchedAt": "2026-10-20T13:06:55.372Z"
+      "footballFetchedAt": "2026-10-20T16:27:06.750745+00:00",
+      "whatsappFetchedAt": "2026-10-20T16:27:08.322Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
