@@ -11221,9 +11221,9 @@
           "away": "Manchester United",
           "id": "ucl-3-401915395",
           "kickoff": "2026-10-21T16:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 4,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "goals": [
@@ -11250,6 +11250,22 @@
               "minute": "57'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Jacobo Ramón",
+              "assist": "Kaiki",
+              "minute": "76'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester United",
+              "scorer": "Joshua Zirkzee",
+              "assist": "Amad Diallo",
+              "minute": "90'+1'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915395"
@@ -11261,9 +11277,9 @@
           "away": "Galatasaray",
           "id": "ucl-3-401915396",
           "kickoff": "2026-10-21T16:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
           "goals": [
@@ -11325,12 +11341,45 @@
           "away": "Arsenal",
           "id": "ucl-3-401915312",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Arsenal",
+              "scorer": "Eberechi Eze",
+              "assist": "Martin Ødegaard",
+              "minute": "25'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bayern Munich",
+              "scorer": "Alphonso Davies",
+              "assist": "Harry Kane",
+              "minute": "35'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Bayern Munich",
+              "scorer": "Harry Kane",
+              "assist": "",
+              "minute": "61'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Arsenal",
+              "scorer": "Declan Rice",
+              "assist": "Viktor Gyökeres",
+              "minute": "82'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915312"
         },
         {
@@ -11340,12 +11389,53 @@
           "away": "RB Leipzig",
           "id": "ucl-3-401915313",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 4,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Real Madrid",
+              "scorer": "Bernardo Silva",
+              "assist": "",
+              "minute": "43'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Arda Güler",
+              "assist": "Kylian Mbappé",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Kylian Mbappé",
+              "assist": "Yan Diomande",
+              "minute": "83'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "RB Leipzig",
+              "scorer": "Tidiam Gomis",
+              "assist": "Christoph Baumgartner",
+              "minute": "85'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Yan Diomande",
+              "assist": "Brahim Díaz",
+              "minute": "87'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915313"
         },
         {
@@ -11355,12 +11445,37 @@
           "away": "Lens",
           "id": "ucl-3-401915388",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Club Brugge",
+              "scorer": "Hans Vanaken",
+              "assist": "",
+              "minute": "45'+3'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Joaquin Seys",
+              "assist": "",
+              "minute": "50'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Carlos Forbs",
+              "assist": "Hugo Vetlesen",
+              "minute": "72'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915388"
         },
         {
@@ -11370,12 +11485,21 @@
           "away": "Feyenoord Rotterdam",
           "id": "ucl-3-401915389",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Real Betis",
+              "scorer": "Isco",
+              "assist": "",
+              "minute": "59'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401915389"
         },
         {
@@ -11385,12 +11509,21 @@
           "away": "Shakhtar Donetsk",
           "id": "ucl-3-401915390",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Internazionale",
+              "scorer": "Carlos Augusto",
+              "assist": "Henrikh Mkhitaryan",
+              "minute": "77'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915390"
         },
         {
@@ -11400,12 +11533,53 @@
           "away": "LASK Linz",
           "id": "ucl-3-401915391",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Sporting CP",
+              "scorer": "Luis Suárez",
+              "assist": "",
+              "minute": "5'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Christoph Lang",
+              "assist": "Kasper Jørgensen",
+              "minute": "15'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Sasa Kalajdzic",
+              "assist": "Robert Ljubicic",
+              "minute": "63'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Krystof Danek",
+              "assist": "Samuel Adeniran",
+              "minute": "68'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Sporting CP",
+              "scorer": "Luis Suárez",
+              "assist": "",
+              "minute": "89'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915391"
         },
         {
@@ -11415,12 +11589,45 @@
           "away": "Viking FK",
           "id": "ucl-3-401915394",
           "kickoff": "2026-10-21T19:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Aston Villa",
+              "scorer": "Ross Barkley",
+              "assist": "Ibrahim Mbaye",
+              "minute": "23'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Emiliano Buendía",
+              "assist": "",
+              "minute": "37'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Aston Villa",
+              "scorer": "Henrik Heggheim",
+              "assist": "",
+              "minute": "62'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Peter Christiansen",
+              "assist": "Kristoffer Askildsen",
+              "minute": "84'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915394"
         }
       ],
@@ -11463,15 +11670,15 @@
             9,
             24,
             12,
+            11,
+            4,
+            5,
+            12,
+            11,
+            11,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            15
           ],
           "playerPoints": [
             7,
@@ -11547,9 +11754,9 @@
               "total": 3.5
             }
           ],
-          "total": 106.5,
+          "total": 185.5,
           "exactDouble": 0,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -11590,15 +11797,15 @@
             9,
             22,
             12,
+            11,
             0,
+            5,
+            11,
+            11,
+            12,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12
           ],
           "playerPoints": [
             0,
@@ -11661,7 +11868,7 @@
               "total": 3.5
             }
           ],
-          "total": 74.0,
+          "total": 147.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -11704,22 +11911,22 @@
             8.5,
             20,
             12,
+            11,
             0,
+            15,
+            11,
+            11,
+            10,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12
           ],
           "playerPoints": [
-            0,
+            9,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -11728,7 +11935,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Sporting CP",
@@ -11746,9 +11953,28 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
               "status": "resolved",
@@ -11775,7 +12001,7 @@
               "total": 3.5
             }
           ],
-          "total": 71.0,
+          "total": 160.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -11818,15 +12044,15 @@
             9,
             20,
             12,
+            3,
             0,
+            5,
+            12,
             0,
+            11,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            15
           ],
           "playerPoints": [
             7,
@@ -11908,7 +12134,7 @@
               "total": 11
             }
           ],
-          "total": 111,
+          "total": 167,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -11951,15 +12177,15 @@
             9,
             22,
             12,
+            3,
+            10,
+            15,
+            10,
+            11,
+            12,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11
           ],
           "playerPoints": [
             7,
@@ -12022,7 +12248,7 @@
               "total": 0
             }
           ],
-          "total": 81.5,
+          "total": 163.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -12065,15 +12291,15 @@
             0,
             10,
             24,
+            3,
+            4,
+            5,
+            12,
+            11,
+            9,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            15
           ],
           "playerPoints": [
             0,
@@ -12136,7 +12362,7 @@
               "total": 3.5
             }
           ],
-          "total": 75.5,
+          "total": 145.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -12179,15 +12405,15 @@
             0,
             10,
             12,
+            3,
             0,
+            13,
+            11,
+            11,
+            11,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            30
           ],
           "playerPoints": [
             7,
@@ -12263,8 +12489,8 @@
               "total": 3.5
             }
           ],
-          "total": 61.5,
-          "exactDouble": 0,
+          "total": 151.5,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -12306,15 +12532,15 @@
             9,
             20,
             11,
+            11,
             0,
+            5,
+            11,
+            11,
+            11,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12
           ],
           "playerPoints": [
             6,
@@ -12390,7 +12616,7 @@
               "total": 11
             }
           ],
-          "total": 92,
+          "total": 165,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -12433,15 +12659,15 @@
             9,
             20,
             12,
+            11,
             0,
+            5,
+            12,
             0,
+            11,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            15
           ],
           "playerPoints": [
             7,
@@ -12517,7 +12743,7 @@
               "total": 3.5
             }
           ],
-          "total": 95.5,
+          "total": 161.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -12560,23 +12786,23 @@
             8.5,
             10,
             12,
+            11,
+            10,
+            2,
+            11,
             0,
+            11,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            24
           ],
           "playerPoints": [
-            0,
-            0
+            9,
+            3.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -12584,7 +12810,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Sporting CP",
@@ -12592,7 +12818,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Bayern Munich",
@@ -12602,24 +12828,62 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 9
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "penaltyGoal",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 80.5,
+          "total": 172.0,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 111,
+      "complete": true,
+      "max": 185.5,
       "tipsRevealed": true
     },
     {
@@ -18289,16 +18553,16 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 46.5,
-      "total": 442.5,
+      "total": 508.5,
       "rank": 1,
       "finance": 8000
     },
     {
       "alias": "Andy",
-      "roundWins": 0,
+      "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 30.5,
-      "total": 408.5,
+      "total": 487.5,
       "rank": 2,
       "finance": 4000
     },
@@ -18306,8 +18570,8 @@
       "alias": "Maara",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 33,
-      "total": 397.5,
+      "playerPoints": 42,
+      "total": 486.5,
       "rank": 3,
       "finance": 1500
     },
@@ -18316,61 +18580,61 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 26.5,
-      "total": 395.5,
+      "total": 477.5,
       "rank": 4,
       "finance": -500
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 44.5,
+      "total": 461.5,
+      "rank": 5,
+      "finance": -1000
+    },
+    {
+      "alias": "Dvorek",
+      "roundWins": 0,
+      "exactDoubles": 1,
+      "playerPoints": 33.5,
+      "total": 457,
+      "rank": 6,
+      "finance": -1500
     },
     {
       "alias": "Pospec",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 36.5,
-      "total": 379.5,
-      "rank": 5,
-      "finance": -1000
+      "total": 452.5,
+      "rank": 7,
+      "finance": -2000
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 29.5,
-      "total": 377,
-      "rank": 6,
-      "finance": -1500
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 42.5,
-      "total": 376.5,
-      "rank": 7,
-      "finance": -2000
-    },
-    {
-      "alias": "Mráva",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 32,
-      "total": 370,
+      "total": 450,
       "rank": 8,
       "finance": -2500
-    },
-    {
-      "alias": "Dvorek",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 33.5,
-      "total": 367,
-      "rank": 9,
-      "finance": -3000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 37.5,
-      "total": 365.5,
+      "total": 435.5,
+      "rank": 9,
+      "finance": -3000
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 42.5,
+      "total": 432.5,
       "rank": 10,
       "finance": -3500
     }
@@ -18788,17 +19052,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-21T18:06:42.558109+00:00",
-  "fingerprint": "278260cf1935996df785b4197b1f8c437a2926256c59a34d9ec0d0967bfe0f33",
+  "generatedAt": "2026-10-21T21:19:40.300223+00:00",
+  "fingerprint": "e287f62f597a38385562f3ed5100fbb17e16fd639f241785ee08751f1445e5cd",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-21T18:06:42.558467+00:00",
-    "lastDataChangeAt": "2026-10-21T18:06:42.558109+00:00",
-    "fingerprint": "278260cf1935996df785b4197b1f8c437a2926256c59a34d9ec0d0967bfe0f33",
+    "lastSuccessfulRunAt": "2026-10-21T21:19:40.301989+00:00",
+    "lastDataChangeAt": "2026-10-21T21:19:40.300223+00:00",
+    "fingerprint": "e287f62f597a38385562f3ed5100fbb17e16fd639f241785ee08751f1445e5cd",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-21T18:05:53.556725+00:00",
-      "whatsappFetchedAt": "2026-10-21T18:05:55.630Z"
+      "footballFetchedAt": "2026-10-21T21:19:00.986606+00:00",
+      "whatsappFetchedAt": "2026-10-21T21:19:01.844Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -18818,8 +19082,7 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "pending": 3,
-          "resolved": 56
+          "resolved": 59
         },
         "methods": {
           "exact": 28,
