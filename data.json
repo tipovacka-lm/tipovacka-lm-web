@@ -1835,6 +1835,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "265912",
+      "catalogId": "espn:265912",
+      "name": "Maxence Caqueret",
+      "team": "Como",
+      "position": "Substitute"
+    },
+    {
       "providerId": "309241",
       "catalogId": "espn:309241",
       "name": "Máximo Perrone",
@@ -2479,6 +2486,13 @@
       "position": "Left Midfielder"
     },
     {
+      "providerId": "217267",
+      "catalogId": "espn:217267",
+      "name": "Günay Güvenc",
+      "team": "Galatasaray",
+      "position": "Substitute"
+    },
+    {
       "providerId": "131424",
       "catalogId": "espn:131424",
       "name": "Ilkay Gündogan",
@@ -2561,6 +2575,13 @@
       "name": "Victor Osimhen",
       "team": "Galatasaray",
       "position": "Forward"
+    },
+    {
+      "providerId": "286569",
+      "catalogId": "espn:286569",
+      "name": "Wilfried Singo",
+      "team": "Galatasaray",
+      "position": "Substitute"
     },
     {
       "providerId": "266575",
@@ -3753,6 +3774,20 @@
       "position": "Substitute"
     },
     {
+      "providerId": "205081",
+      "catalogId": "espn:205081",
+      "name": "Jack Fletcher",
+      "team": "Manchester United",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "386199",
+      "catalogId": "espn:386199",
+      "name": "Jaydan Kamason",
+      "team": "Manchester United",
+      "position": "Substitute"
+    },
+    {
       "providerId": "276327",
       "catalogId": "espn:276327",
       "name": "Joshua Zirkzee",
@@ -3851,9 +3886,23 @@
       "position": "Substitute"
     },
     {
+      "providerId": "42250",
+      "catalogId": "espn:42250",
+      "name": "Tom Heaton",
+      "team": "Manchester United",
+      "position": "Substitute"
+    },
+    {
       "providerId": "393138",
       "catalogId": "espn:393138",
       "name": "Tyler Fletcher",
+      "team": "Manchester United",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "397881",
+      "catalogId": "espn:397881",
+      "name": "Tynan Thompson",
       "team": "Manchester United",
       "position": "Substitute"
     },
@@ -18602,17 +18651,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-21T13:18:36.429685+00:00",
-  "fingerprint": "0456da6e02a86ebd6e8b38236dd6ab114e4180a0860c153c156d845c2946431a",
+  "generatedAt": "2026-10-21T16:43:45.530151+00:00",
+  "fingerprint": "08b6128c831d75a3e6ce86ca8fe54b96ab767a1abf489f7340d17486d8772e77",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-21T13:18:36.429876+00:00",
-    "lastDataChangeAt": "2026-10-21T13:18:36.429685+00:00",
-    "fingerprint": "0456da6e02a86ebd6e8b38236dd6ab114e4180a0860c153c156d845c2946431a",
+    "lastSuccessfulRunAt": "2026-10-21T16:43:45.530321+00:00",
+    "lastDataChangeAt": "2026-10-21T16:43:45.530151+00:00",
+    "fingerprint": "08b6128c831d75a3e6ce86ca8fe54b96ab767a1abf489f7340d17486d8772e77",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-21T13:17:56.607895+00:00",
-      "whatsappFetchedAt": "2026-10-21T13:17:57.440Z"
+      "footballFetchedAt": "2026-10-21T16:42:56.704228+00:00",
+      "whatsappFetchedAt": "2026-10-21T16:42:57.471Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
