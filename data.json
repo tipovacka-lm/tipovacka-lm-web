@@ -680,6 +680,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "281121",
+      "catalogId": "espn:281121",
+      "name": "Taylor Harwood-Bellis",
+      "team": "Aston Villa",
+      "position": "Substitute"
+    },
+    {
       "providerId": "349075",
       "catalogId": "espn:349075",
       "name": "Triston Rowe",
@@ -1226,6 +1233,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "3104151",
+      "catalogId": "espn:3104151",
+      "name": "Tim Binder",
+      "team": "Bayern Munich",
+      "position": "Substitute"
+    },
+    {
       "providerId": "324660",
       "catalogId": "espn:324660",
       "name": "Tom Bischof",
@@ -1712,6 +1726,13 @@
       "providerId": "329465",
       "catalogId": "espn:329465",
       "name": "Samba Coulibaly",
+      "team": "Club Brugge",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "417829",
+      "catalogId": "espn:417829",
+      "name": "Tian Nai Koren",
       "team": "Club Brugge",
       "position": "Substitute"
     },
@@ -2654,6 +2675,13 @@
       "position": "Left Midfielder"
     },
     {
+      "providerId": "387837",
+      "catalogId": "espn:387837",
+      "name": "Francesco Stante",
+      "team": "Internazionale",
+      "position": "Substitute"
+    },
+    {
       "providerId": "170785",
       "catalogId": "espn:170785",
       "name": "Hakan Çalhanoglu",
@@ -2724,6 +2752,13 @@
       "position": "Center Left Forward"
     },
     {
+      "providerId": "409051",
+      "catalogId": "espn:409051",
+      "name": "Mattia Mosconi",
+      "team": "Internazionale",
+      "position": "Substitute"
+    },
+    {
       "providerId": "204441",
       "catalogId": "espn:204441",
       "name": "Nicolò Barella",
@@ -2785,6 +2820,13 @@
       "name": "Andrés Andrade",
       "team": "LASK Linz",
       "position": "Center Left Defender"
+    },
+    {
+      "providerId": "413713",
+      "catalogId": "espn:413713",
+      "name": "Christof Katzmayr",
+      "team": "LASK Linz",
+      "position": "Substitute"
     },
     {
       "providerId": "37442",
@@ -4481,6 +4523,13 @@
       "position": "Center Left Defender"
     },
     {
+      "providerId": "274897",
+      "catalogId": "espn:274897",
+      "name": "Christoph Baumgartner",
+      "team": "RB Leipzig",
+      "position": "Substitute"
+    },
+    {
       "providerId": "222176",
       "catalogId": "espn:222176",
       "name": "Christopher Nkunku",
@@ -4605,6 +4654,13 @@
       "name": "Abde Ezzalzouli",
       "team": "Real Betis",
       "position": "Attacking Midfielder Left"
+    },
+    {
+      "providerId": "268601",
+      "catalogId": "espn:268601",
+      "name": "Aitor Ruibal",
+      "team": "Real Betis",
+      "position": "Substitute"
     },
     {
       "providerId": "283827",
@@ -4843,6 +4899,13 @@
       "name": "Denzel Dumfries",
       "team": "Real Madrid",
       "position": "Right Back"
+    },
+    {
+      "providerId": "228402",
+      "catalogId": "espn:228402",
+      "name": "Éder Militão",
+      "team": "Real Madrid",
+      "position": "Substitute"
     },
     {
       "providerId": "285150",
@@ -11163,7 +11226,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Como",
+              "scorer": "Nico Paz",
+              "assist": "Lucas Da Cunha",
+              "minute": "2'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Anastasios Douvikas",
+              "assist": "Nico Paz",
+              "minute": "49'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Nico Paz",
+              "assist": "",
+              "minute": "57'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915395"
         },
         {
@@ -11178,7 +11266,56 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Galatasaray",
+              "scorer": "Yunus Akgün",
+              "assist": "",
+              "minute": "2'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Lille",
+              "scorer": "Soriba Diaoune",
+              "assist": "Alexsandro",
+              "minute": "7'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Lille",
+              "scorer": "Soriba Diaoune",
+              "assist": "Hákon Haraldsson",
+              "minute": "39'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Galatasaray",
+              "scorer": "Alexey Batrakov",
+              "assist": "Roland Sallai",
+              "minute": "44'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Galatasaray",
+              "scorer": "Berke Özer",
+              "assist": "",
+              "minute": "52'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "Galatasaray",
+              "scorer": "Victor Osimhen",
+              "assist": "Baris Alper Yilmaz",
+              "minute": "61'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915396"
         },
         {
@@ -18651,17 +18788,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-21T16:43:45.530151+00:00",
-  "fingerprint": "08b6128c831d75a3e6ce86ca8fe54b96ab767a1abf489f7340d17486d8772e77",
+  "generatedAt": "2026-10-21T18:06:42.558109+00:00",
+  "fingerprint": "278260cf1935996df785b4197b1f8c437a2926256c59a34d9ec0d0967bfe0f33",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-10-21T16:43:45.530321+00:00",
-    "lastDataChangeAt": "2026-10-21T16:43:45.530151+00:00",
-    "fingerprint": "08b6128c831d75a3e6ce86ca8fe54b96ab767a1abf489f7340d17486d8772e77",
+    "lastSuccessfulRunAt": "2026-10-21T18:06:42.558467+00:00",
+    "lastDataChangeAt": "2026-10-21T18:06:42.558109+00:00",
+    "fingerprint": "278260cf1935996df785b4197b1f8c437a2926256c59a34d9ec0d0967bfe0f33",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-10-21T16:42:56.704228+00:00",
-      "whatsappFetchedAt": "2026-10-21T16:42:57.471Z"
+      "footballFetchedAt": "2026-10-21T18:05:53.556725+00:00",
+      "whatsappFetchedAt": "2026-10-21T18:05:55.630Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
