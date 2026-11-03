@@ -13420,7 +13420,7 @@
         },
         {
           "alias": "Giorgio",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -19052,17 +19052,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T09:05:44.667954+00:00",
-  "fingerprint": "c685853df1e612fa6182c64f466dc78aacdfa8bd593fb579a0536637ddaff369",
+  "generatedAt": "2026-11-03T15:34:50.859407+00:00",
+  "fingerprint": "41393b43f46268dde98f310e5cc14ebc9945416aaa0584a1217c5eb87a69b932",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-03T09:05:44.668116+00:00",
-    "lastDataChangeAt": "2026-11-03T09:05:44.667954+00:00",
-    "fingerprint": "c685853df1e612fa6182c64f466dc78aacdfa8bd593fb579a0536637ddaff369",
+    "lastSuccessfulRunAt": "2026-11-03T15:34:50.859569+00:00",
+    "lastDataChangeAt": "2026-11-03T15:34:50.859407+00:00",
+    "fingerprint": "41393b43f46268dde98f310e5cc14ebc9945416aaa0584a1217c5eb87a69b932",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-03T09:04:53.877135+00:00",
-      "whatsappFetchedAt": "2026-11-03T09:04:55.131Z"
+      "footballFetchedAt": "2026-11-03T15:33:49.784304+00:00",
+      "whatsappFetchedAt": "2026-11-03T15:33:50.769Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
