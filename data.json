@@ -13010,9 +13010,9 @@
           "away": "Sporting CP",
           "id": "ucl-4-401915310",
           "kickoff": "2026-11-03T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
           "goals": [
@@ -13034,9 +13034,9 @@
           "away": "VfB Stuttgart",
           "id": "ucl-4-401915311",
           "kickoff": "2026-11-03T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
           "goals": [
@@ -13071,7 +13071,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Internazionale",
+              "scorer": "Yann Bisseck",
+              "assist": "Djed Spence",
+              "minute": "8'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Internazionale",
+              "scorer": "Pio Esposito",
+              "assist": "",
+              "minute": "34'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Internazionale",
+              "scorer": "Piotr Zielinski",
+              "assist": "Nicolò Barella",
+              "minute": "54'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915307"
         },
         {
@@ -13086,7 +13111,32 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "AS Roma",
+              "scorer": "Matìas Soulè",
+              "assist": "Rodrigo Mora",
+              "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "AS Roma",
+              "scorer": "Donyell Malen",
+              "assist": "",
+              "minute": "17'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Manchester United",
+              "scorer": "Bruno Fernandes",
+              "assist": "",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401915308"
         },
         {
@@ -13101,7 +13151,48 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "João Neves",
+              "assist": "",
+              "minute": "9'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Désiré Doué",
+              "assist": "Maghnes Akliouche",
+              "minute": "12'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Senny Mayulu",
+              "assist": "",
+              "minute": "13'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Fabián Ruiz",
+              "assist": "Maghnes Akliouche",
+              "minute": "17'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Fabián Ruiz",
+              "assist": "Vitinha",
+              "minute": "50'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915309"
         },
         {
@@ -13131,7 +13222,40 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "LASK Linz",
+              "scorer": "Kasper Jørgensen",
+              "assist": "Moses Usor",
+              "minute": "19'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Kasper Jørgensen",
+              "assist": "",
+              "minute": "37'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Robert Ljubicic",
+              "assist": "",
+              "minute": "44'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "LASK Linz",
+              "scorer": "Samuel Adeniran",
+              "assist": "Sascha Horvath",
+              "minute": "48'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915385"
         },
         {
@@ -13146,7 +13270,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bayern Munich",
+              "scorer": "Lennart Karl",
+              "assist": "",
+              "minute": "54'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915386"
         },
         {
@@ -13161,7 +13294,24 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Barcelona",
+              "scorer": "Lamine Yamal",
+              "assist": "",
+              "minute": "7'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Raphinha",
+              "assist": "Fermín López",
+              "minute": "52'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915387"
         },
         {
@@ -13330,8 +13480,8 @@
             "Viktor Gyökeres"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            11,
             0,
             0,
             0,
@@ -13350,11 +13500,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            1,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -13363,7 +13513,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Galatasaray",
@@ -13381,9 +13531,16 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                }
+              ],
+              "total": 1
             },
             {
               "status": "pending",
@@ -13391,7 +13548,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13426,7 +13583,7 @@
           ],
           "matchPoints": [
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -13486,7 +13643,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 12,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13520,8 +13677,8 @@
             "Kylian Mbappé"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            12,
             0,
             0,
             0,
@@ -13581,7 +13738,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13615,8 +13772,8 @@
             "Erling Haaland"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            2,
             0,
             0,
             0,
@@ -13676,7 +13833,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 13,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13710,8 +13867,8 @@
             "Donyell Malen"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            12,
             0,
             0,
             0,
@@ -13771,7 +13928,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13806,7 +13963,7 @@
           ],
           "matchPoints": [
             0,
-            0,
+            4,
             0,
             0,
             0,
@@ -13866,7 +14023,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 4,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13900,8 +14057,8 @@
             "Lamine Yamal"
           ],
           "matchPoints": [
-            0,
-            0,
+            5,
+            12,
             0,
             0,
             0,
@@ -13961,7 +14118,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 17,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13995,8 +14152,8 @@
             "Erling Haaland"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            12,
             0,
             0,
             0,
@@ -14056,7 +14213,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14090,8 +14247,8 @@
             "Kylian Mbappé"
           ],
           "matchPoints": [
-            0,
-            0,
+            11,
+            12,
             0,
             0,
             0,
@@ -14151,7 +14308,7 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 23,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14185,8 +14342,8 @@
             "Erling Haaland"
           ],
           "matchPoints": [
-            0,
-            0,
+            5,
+            12,
             0,
             0,
             0,
@@ -14246,14 +14403,14 @@
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 17,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
+      "max": 23,
       "tipsRevealed": true
     },
     {
@@ -18791,7 +18948,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 46.5,
-      "total": 508.5,
+      "total": 531.5,
       "rank": 1,
       "finance": 8000
     },
@@ -18799,8 +18956,8 @@
       "alias": "Andy",
       "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 30.5,
-      "total": 487.5,
+      "playerPoints": 31.5,
+      "total": 510.5,
       "rank": 2,
       "finance": 4000
     },
@@ -18809,7 +18966,7 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 42,
-      "total": 486.5,
+      "total": 509.5,
       "rank": 3,
       "finance": 1500
     },
@@ -18818,7 +18975,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 26.5,
-      "total": 477.5,
+      "total": 500.5,
       "rank": 4,
       "finance": -500
     },
@@ -18827,7 +18984,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 44.5,
-      "total": 461.5,
+      "total": 478.5,
       "rank": 5,
       "finance": -1000
     },
@@ -18836,43 +18993,43 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 33.5,
-      "total": 457,
+      "total": 474,
       "rank": 6,
       "finance": -1500
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 36.5,
-      "total": 452.5,
-      "rank": 7,
-      "finance": -2000
     },
     {
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 29.5,
-      "total": 450,
-      "rank": 8,
-      "finance": -2500
+      "total": 473,
+      "rank": 7,
+      "finance": -2000
     },
     {
-      "alias": "Závodka",
+      "alias": "Pospec",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 37.5,
-      "total": 435.5,
-      "rank": 9,
-      "finance": -3000
+      "playerPoints": 36.5,
+      "total": 464.5,
+      "rank": 8,
+      "finance": -2500
     },
     {
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 42.5,
-      "total": 432.5,
+      "total": 445.5,
+      "rank": 9,
+      "finance": -3000
+    },
+    {
+      "alias": "Závodka",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 37.5,
+      "total": 439.5,
       "rank": 10,
       "finance": -3500
     }
@@ -19290,17 +19447,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T19:10:53.392609+00:00",
-  "fingerprint": "5d90c90acef92dd772f86c3a3273b8fe7ee1c9754e76aaa94df2c3545aaa3559",
+  "generatedAt": "2026-11-03T21:21:38.621886+00:00",
+  "fingerprint": "4d59f044ebbb886c542c28758c872ee68d91ff9ae4a6f43e1c36ba98a73225fe",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-03T19:10:53.392887+00:00",
-    "lastDataChangeAt": "2026-11-03T19:10:53.392609+00:00",
-    "fingerprint": "5d90c90acef92dd772f86c3a3273b8fe7ee1c9754e76aaa94df2c3545aaa3559",
+    "lastSuccessfulRunAt": "2026-11-03T21:21:38.622074+00:00",
+    "lastDataChangeAt": "2026-11-03T21:21:38.621886+00:00",
+    "fingerprint": "4d59f044ebbb886c542c28758c872ee68d91ff9ae4a6f43e1c36ba98a73225fe",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-03T19:09:59.094904+00:00",
-      "whatsappFetchedAt": "2026-11-03T19:10:04.354Z"
+      "footballFetchedAt": "2026-11-03T21:20:42.775641+00:00",
+      "whatsappFetchedAt": "2026-11-03T21:20:44.134Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -19320,8 +19477,8 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "pending": 20,
-          "resolved": 59
+          "pending": 19,
+          "resolved": 60
         },
         "methods": {
           "exact": 32,
