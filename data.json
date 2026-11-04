@@ -155,6 +155,13 @@
       "position": "Left Back"
     },
     {
+      "providerId": "180047",
+      "catalogId": "espn:180047",
+      "name": "Thomas Strakosha",
+      "team": "AEK Athens",
+      "position": "Substitute"
+    },
+    {
       "providerId": "297754",
       "catalogId": "espn:297754",
       "name": "Zini",
@@ -342,6 +349,13 @@
       "name": "Viktor Gyökeres",
       "team": "Arsenal",
       "position": "Forward"
+    },
+    {
+      "providerId": "277385",
+      "catalogId": "espn:277385",
+      "name": "William Saliba",
+      "team": "Arsenal",
+      "position": "Substitute"
     },
     {
       "providerId": "3098218",
@@ -1814,6 +1828,13 @@
       "position": "Attacking Midfielder Right"
     },
     {
+      "providerId": "5330604",
+      "catalogId": "espn:5330604",
+      "name": "Federico Grilli",
+      "team": "Como",
+      "position": "Substitute"
+    },
+    {
       "providerId": "323273",
       "catalogId": "espn:323273",
       "name": "Ivan Smolcic",
@@ -1882,6 +1903,13 @@
       "name": "Martin Baturina",
       "team": "Como",
       "position": "Attacking Midfielder Left"
+    },
+    {
+      "providerId": "411276",
+      "catalogId": "espn:411276",
+      "name": "Matteo Papaccioli",
+      "team": "Como",
+      "position": "Substitute"
     },
     {
       "providerId": "387723",
@@ -4047,6 +4075,13 @@
       "position": "Center Right Defender"
     },
     {
+      "providerId": "5327647",
+      "catalogId": "espn:5327647",
+      "name": "Andrea Chiummariello",
+      "team": "Napoli",
+      "position": "Substitute"
+    },
+    {
       "providerId": "332411",
       "catalogId": "espn:332411",
       "name": "Antonio Vergara",
@@ -4066,6 +4101,13 @@
       "name": "Billy Gilmour",
       "team": "Napoli",
       "position": "Center Midfielder"
+    },
+    {
+      "providerId": "5327646",
+      "catalogId": "espn:5327646",
+      "name": "Claudio Lieto",
+      "team": "Napoli",
+      "position": "Substitute"
     },
     {
       "providerId": "346622",
@@ -4437,6 +4479,13 @@
       "name": "Ivan Perisic",
       "team": "PSV Eindhoven",
       "position": "Attacking Midfielder Right"
+    },
+    {
+      "providerId": "301279",
+      "catalogId": "espn:301279",
+      "name": "Kiliann Sildillia",
+      "team": "PSV Eindhoven",
+      "position": "Substitute"
     },
     {
       "providerId": "341715",
@@ -4989,7 +5038,7 @@
       "catalogId": "espn:228402",
       "name": "Éder Militão",
       "team": "Real Madrid",
-      "position": "Substitute"
+      "position": "Center Right Defender"
     },
     {
       "providerId": "285150",
@@ -5051,6 +5100,13 @@
       "providerId": "330352",
       "catalogId": "espn:330352",
       "name": "Mario Rivas",
+      "team": "Real Madrid",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "409318",
+      "catalogId": "espn:409318",
+      "name": "Sergio Martínez",
       "team": "Real Madrid",
       "position": "Substitute"
     },
@@ -13366,7 +13422,48 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Liverpool",
+              "scorer": "Trey Nyoni",
+              "assist": "",
+              "minute": "25'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Fenerbahce",
+              "scorer": "Mason Greenwood",
+              "assist": "",
+              "minute": "29'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Liverpool",
+              "scorer": "Alexander Isak",
+              "assist": "Cody Gakpo",
+              "minute": "69'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Fenerbahce",
+              "scorer": "Archie Brown",
+              "assist": "",
+              "minute": "73'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Fenerbahce",
+              "scorer": "Vedat Muriqi",
+              "assist": "Archie Brown",
+              "minute": "79'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915382"
         },
         {
@@ -13381,7 +13478,40 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "AEK Athens",
+              "scorer": "Aboubakary Koita",
+              "assist": "Luka Jovic",
+              "minute": "12'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Jude Bellingham",
+              "assist": "Marc Cucurella",
+              "minute": "32'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "AEK Athens",
+              "scorer": "Stavros Pilios",
+              "assist": "Aboubakary Koita",
+              "minute": "75'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Kylian Mbappé",
+              "assist": "Denzel Dumfries",
+              "minute": "78'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915383"
         },
         {
@@ -19596,17 +19726,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-04T15:51:39.377887+00:00",
-  "fingerprint": "455b5c3cc326e6b724aa4c1c6688a70214b69a7664ae729a60af5e6d93feea90",
+  "generatedAt": "2026-11-04T19:27:46.224372+00:00",
+  "fingerprint": "49be8d37ac87b6616829de48b0fdc8ca32aa610bff4faa7ef0bcd54e88aedec6",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-04T15:51:39.378084+00:00",
-    "lastDataChangeAt": "2026-11-04T15:51:39.377887+00:00",
-    "fingerprint": "455b5c3cc326e6b724aa4c1c6688a70214b69a7664ae729a60af5e6d93feea90",
+    "lastSuccessfulRunAt": "2026-11-04T19:27:46.224570+00:00",
+    "lastDataChangeAt": "2026-11-04T19:27:46.224372+00:00",
+    "fingerprint": "49be8d37ac87b6616829de48b0fdc8ca32aa610bff4faa7ef0bcd54e88aedec6",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-04T15:50:50.836764+00:00",
-      "whatsappFetchedAt": "2026-11-04T15:50:52.941Z"
+      "footballFetchedAt": "2026-11-04T19:26:59.529050+00:00",
+      "whatsappFetchedAt": "2026-11-04T19:27:01.381Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
