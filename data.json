@@ -13417,9 +13417,9 @@
           "away": "Liverpool",
           "id": "ucl-4-401915382",
           "kickoff": "2026-11-04T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
           "goals": [
@@ -13473,9 +13473,9 @@
           "away": "Real Madrid",
           "id": "ucl-4-401915383",
           "kickoff": "2026-11-04T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
           "goals": [
@@ -13510,6 +13510,14 @@
               "minute": "78'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Federico Valverde",
+              "assist": "Brahim Díaz",
+              "minute": "90'+2'",
+              "ownGoal": false,
+              "penalty": false
             }
           ],
           "providerId": "401915383"
@@ -13526,7 +13534,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "FC Porto",
+              "scorer": "Jan Bednarek",
+              "assist": "Gabri Veiga",
+              "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915301"
         },
         {
@@ -13541,7 +13558,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Sabah FK",
+              "scorer": "Patrick Orphe M'Bina",
+              "assist": "Umarali Rakhmonaliev",
+              "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915302"
         },
         {
@@ -13556,7 +13582,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Club Brugge",
+              "scorer": "Nicolo Tresoldi",
+              "assist": "Joaquin Seys",
+              "minute": "25'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915303"
         },
         {
@@ -13586,7 +13621,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Como",
+              "scorer": "Anastasios Douvikas",
+              "assist": "Máximo Perrone",
+              "minute": "7'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915305"
         },
         {
@@ -13616,7 +13660,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Arsenal",
+              "scorer": "Noni Madueke",
+              "assist": "Viktor Gyökeres",
+              "minute": "9'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915381"
         }
       ],
@@ -13660,7 +13713,7 @@
             12,
             11,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -13718,7 +13771,7 @@
               "total": 0
             }
           ],
-          "total": 92,
+          "total": 104,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13762,7 +13815,7 @@
             12,
             15,
             0,
-            0,
+            11,
             0,
             0,
             0,
@@ -13772,11 +13825,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             6
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -13785,7 +13838,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -13803,9 +13856,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -13832,7 +13898,7 @@
               "total": 6
             }
           ],
-          "total": 80,
+          "total": 97,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13876,7 +13942,7 @@
             12,
             24,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -13887,11 +13953,11 @@
           ],
           "playerPoints": [
             6,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -13907,7 +13973,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -13935,12 +14001,25 @@
               "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 96,
+          "total": 111.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13984,7 +14063,7 @@
             12,
             12,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -13994,11 +14073,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -14007,7 +14086,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14025,9 +14104,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -14035,7 +14127,7 @@
               "total": 0
             }
           ],
-          "total": 67,
+          "total": 85,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14079,7 +14171,7 @@
             2,
             12,
             0,
-            0,
+            10,
             0,
             0,
             0,
@@ -14089,11 +14181,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             1.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -14102,7 +14194,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14120,9 +14212,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -14149,7 +14254,7 @@
               "total": 1.5
             }
           ],
-          "total": 75.5,
+          "total": 91.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14193,7 +14298,7 @@
             2,
             12,
             0,
-            0,
+            22,
             0,
             0,
             0,
@@ -14203,11 +14308,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -14216,7 +14321,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14234,9 +14339,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -14257,7 +14375,7 @@
               "total": 3.5
             }
           ],
-          "total": 44.5,
+          "total": 72.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14301,7 +14419,7 @@
             0,
             11,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -14311,11 +14429,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             3.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -14324,7 +14442,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14342,9 +14460,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "resolved",
@@ -14365,7 +14496,7 @@
               "total": 3.5
             }
           ],
-          "total": 60.5,
+          "total": 78.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14409,7 +14540,7 @@
             12,
             24,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -14419,11 +14550,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            6,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -14432,7 +14563,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14450,9 +14581,22 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 5,
+                  "points": 5
+                }
+              ],
+              "total": 6
             },
             {
               "status": "pending",
@@ -14460,7 +14604,7 @@
               "total": 0
             }
           ],
-          "total": 100,
+          "total": 118,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14504,7 +14648,7 @@
             12,
             15,
             0,
-            0,
+            12,
             0,
             0,
             0,
@@ -14515,11 +14659,11 @@
           ],
           "playerPoints": [
             6,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -14535,7 +14679,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Real Madrid",
@@ -14563,12 +14707,25 @@
               "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 98,
+          "total": 113.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14612,7 +14769,7 @@
             15,
             24,
             0,
-            0,
+            11,
             0,
             0,
             0,
@@ -14682,14 +14839,14 @@
               "total": 0
             }
           ],
-          "total": 122,
+          "total": 133,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 122,
+      "max": 133,
       "tipsRevealed": true
     },
     {
@@ -19226,26 +19383,26 @@
       "alias": "JR",
       "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 52.5,
-      "total": 606.5,
+      "playerPoints": 56,
+      "total": 622,
       "rank": 1,
       "finance": 8000
+    },
+    {
+      "alias": "Maara",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 51.5,
+      "total": 598,
+      "rank": 2,
+      "finance": 4000
     },
     {
       "alias": "Mráva",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 54.5,
-      "total": 583.5,
-      "rank": 2,
-      "finance": 4000
-    },
-    {
-      "alias": "Maara",
-      "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 48,
-      "total": 582.5,
+      "total": 594.5,
       "rank": 3,
       "finance": 1500
     },
@@ -19254,7 +19411,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 31.5,
-      "total": 579.5,
+      "total": 591.5,
       "rank": 4,
       "finance": -500
     },
@@ -19262,8 +19419,8 @@
       "alias": "Mudras",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 28,
-      "total": 553,
+      "playerPoints": 34,
+      "total": 569,
       "rank": 5,
       "finance": -1000
     },
@@ -19271,8 +19428,8 @@
       "alias": "Jayda",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 29.5,
-      "total": 550,
+      "playerPoints": 35.5,
+      "total": 568,
       "rank": 6,
       "finance": -1500
     },
@@ -19280,8 +19437,8 @@
       "alias": "Pospec",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 42.5,
-      "total": 532.5,
+      "playerPoints": 48.5,
+      "total": 549.5,
       "rank": 7,
       "finance": -2000
     },
@@ -19289,8 +19446,8 @@
       "alias": "Dvorek",
       "roundWins": 0,
       "exactDoubles": 1,
-      "playerPoints": 37,
-      "total": 517.5,
+      "playerPoints": 43,
+      "total": 535.5,
       "rank": 8,
       "finance": -2500
     },
@@ -19298,8 +19455,8 @@
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 42.5,
-      "total": 499.5,
+      "playerPoints": 48.5,
+      "total": 517.5,
       "rank": 9,
       "finance": -3000
     },
@@ -19307,8 +19464,8 @@
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 41,
-      "total": 480,
+      "playerPoints": 47,
+      "total": 508,
       "rank": 10,
       "finance": -3500
     }
@@ -19726,17 +19883,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-04T19:27:46.224372+00:00",
-  "fingerprint": "49be8d37ac87b6616829de48b0fdc8ca32aa610bff4faa7ef0bcd54e88aedec6",
+  "generatedAt": "2026-11-04T20:28:52.634589+00:00",
+  "fingerprint": "68cf7702ad7307684fcc9a58e355301ff87ade52a42acbc04f022793014ffa31",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-04T19:27:46.224570+00:00",
-    "lastDataChangeAt": "2026-11-04T19:27:46.224372+00:00",
-    "fingerprint": "49be8d37ac87b6616829de48b0fdc8ca32aa610bff4faa7ef0bcd54e88aedec6",
+    "lastSuccessfulRunAt": "2026-11-04T20:28:52.634771+00:00",
+    "lastDataChangeAt": "2026-11-04T20:28:52.634589+00:00",
+    "fingerprint": "68cf7702ad7307684fcc9a58e355301ff87ade52a42acbc04f022793014ffa31",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-04T19:26:59.529050+00:00",
-      "whatsappFetchedAt": "2026-11-04T19:27:01.381Z"
+      "footballFetchedAt": "2026-11-04T20:27:49.393932+00:00",
+      "whatsappFetchedAt": "2026-11-04T20:27:50.985Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -19756,8 +19913,8 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "pending": 12,
-          "resolved": 67
+          "pending": 4,
+          "resolved": 75
         },
         "methods": {
           "exact": 32,
