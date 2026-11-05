@@ -13529,9 +13529,9 @@
           "away": "Napoli",
           "id": "ucl-4-401915301",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 4,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
           "goals": [
@@ -13542,6 +13542,38 @@
               "minute": "11'",
               "ownGoal": false,
               "penalty": false
+            },
+            {
+              "team": "Napoli",
+              "scorer": "Scott McTominay",
+              "assist": "",
+              "minute": "43'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "FC Porto",
+              "scorer": "Gabri Veiga",
+              "assist": "Santiago Gimenez",
+              "minute": "71'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "FC Porto",
+              "scorer": "Jakub Kiwior",
+              "assist": "Hwang In-Beom",
+              "minute": "80'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "FC Porto",
+              "scorer": "Samu Aghehowa",
+              "assist": "",
+              "minute": "90'",
+              "ownGoal": false,
+              "penalty": true
             }
           ],
           "providerId": "401915301"
@@ -13553,17 +13585,49 @@
           "away": "Sabah FK",
           "id": "ucl-4-401915302",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 4,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
           "goals": [
             {
               "team": "Sabah FK",
-              "scorer": "Patrick Orphe M'Bina",
+              "scorer": "Orphé Mbina",
               "assist": "Umarali Rakhmonaliev",
               "minute": "11'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Erik Botheim",
+              "assist": "Kristoffer Haugen",
+              "minute": "27'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Zlatko Tripic",
+              "assist": "",
+              "minute": "69'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Henrik Falchener",
+              "assist": "Zlatko Tripic",
+              "minute": "81'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Viking FK",
+              "scorer": "Erik Botheim",
+              "assist": "Peter Christiansen",
+              "minute": "90'+4'",
               "ownGoal": false,
               "penalty": false
             }
@@ -13577,9 +13641,9 @@
           "away": "Club Brugge",
           "id": "ucl-4-401915303",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
           "goals": [
@@ -13588,6 +13652,22 @@
               "scorer": "Nicolo Tresoldi",
               "assist": "Joaquin Seys",
               "minute": "25'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "PSV Eindhoven",
+              "scorer": "Kodai Sano",
+              "assist": "",
+              "minute": "54'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Club Brugge",
+              "scorer": "Carlos Forbs",
+              "assist": "Joaquin Seys",
+              "minute": "65'",
               "ownGoal": false,
               "penalty": false
             }
@@ -13601,12 +13681,37 @@
           "away": "Real Betis",
           "id": "ucl-4-401915304",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Borussia Dortmund",
+              "scorer": "Fábio Silva",
+              "assist": "",
+              "minute": "49'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Betis",
+              "scorer": "Aitor Ruibal",
+              "assist": "Abde Ezzalzouli",
+              "minute": "67'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Borussia Dortmund",
+              "scorer": "Konstantinos Karetsas",
+              "assist": "Fábio Silva",
+              "minute": "72'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915304"
         },
         {
@@ -13616,17 +13721,89 @@
           "away": "Como",
           "id": "ucl-4-401915305",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 9,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
           "goals": [
             {
               "team": "Como",
-              "scorer": "Anastasios Douvikas",
+              "scorer": "Tasos Douvikas",
               "assist": "Máximo Perrone",
               "minute": "7'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Tasos Douvikas",
+              "assist": "Álex Valle",
+              "minute": "32'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Nico Paz",
+              "assist": "Tasos Douvikas",
+              "minute": "40'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Lucas Da Cunha",
+              "assist": "Nico Paz",
+              "minute": "47'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Marc-Oliver Kempf",
+              "assist": "Luis Milla",
+              "minute": "53'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Tasos Douvikas",
+              "assist": "Nico Paz",
+              "minute": "57'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Mattia Liberali",
+              "assist": "Jacobo Ramón",
+              "minute": "62'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Lens",
+              "scorer": "Ruben Aguilar",
+              "assist": "Florian Thauvin",
+              "minute": "65'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Martin Baturina",
+              "assist": "Mattia Liberali",
+              "minute": "69'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Como",
+              "scorer": "Matteo Papaccioli",
+              "assist": "Mattia Liberali",
+              "minute": "90'+1'",
               "ownGoal": false,
               "penalty": false
             }
@@ -13640,12 +13817,53 @@
           "away": "Manchester City",
           "id": "ucl-4-401915306",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 3,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Manchester City",
+              "scorer": "Castello Lukeba",
+              "assist": "",
+              "minute": "37'",
+              "ownGoal": true,
+              "penalty": false
+            },
+            {
+              "team": "RB Leipzig",
+              "scorer": "Ridle Baku",
+              "assist": "Brajan Gruda",
+              "minute": "49'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Enzo Fernández",
+              "assist": "Iliman Ndiaye",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "RB Leipzig",
+              "scorer": "Antonio Nusa",
+              "assist": "Christopher Nkunku",
+              "minute": "61'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Erling Haaland",
+              "assist": "Elliot Anderson",
+              "minute": "78'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915306"
         },
         {
@@ -13655,9 +13873,9 @@
           "away": "Arsenal",
           "id": "ucl-4-401915381",
           "kickoff": "2026-11-04T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
           "goals": [
@@ -13666,6 +13884,22 @@
               "scorer": "Noni Madueke",
               "assist": "Viktor Gyökeres",
               "minute": "9'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Arsenal",
+              "scorer": "Viktor Gyökeres",
+              "assist": "Mikel Merino",
+              "minute": "38'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Slavia Prague",
+              "scorer": "Wiktor Nowak",
+              "assist": "David Jurásek",
+              "minute": "90'",
               "ownGoal": false,
               "penalty": false
             }
@@ -13715,20 +13949,20 @@
             0,
             12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            5,
+            15,
+            8,
+            11,
+            22
           ],
           "playerPoints": [
             1,
-            0
+            5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -13744,7 +13978,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Arsenal",
@@ -13766,12 +14000,31 @@
               "total": 1
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 5
             }
           ],
-          "total": 104,
+          "total": 181,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13816,13 +14069,13 @@
             15,
             0,
             11,
+            11,
+            10,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12,
+            8,
+            11,
+            22
           ],
           "playerPoints": [
             6,
@@ -13898,7 +14151,7 @@
               "total": 6
             }
           ],
-          "total": 97,
+          "total": 171,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -13943,13 +14196,13 @@
             24,
             0,
             12,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            10,
+            5,
+            15,
+            8,
+            11,
+            11
           ],
           "playerPoints": [
             6,
@@ -14019,7 +14272,7 @@
               "total": 3.5
             }
           ],
-          "total": 111.5,
+          "total": 182.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14064,21 +14317,21 @@
             12,
             0,
             12,
+            3,
+            11,
+            5,
+            15,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12,
+            24
           ],
           "playerPoints": [
             6,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -14094,7 +14347,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -14122,12 +14375,25 @@
               "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 85,
+          "total": 158.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14173,12 +14439,12 @@
             0,
             10,
             0,
+            11,
+            15,
+            15,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            22
           ],
           "playerPoints": [
             6,
@@ -14254,7 +14520,7 @@
               "total": 1.5
             }
           ],
-          "total": 91.5,
+          "total": 165.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14300,12 +14566,12 @@
             0,
             22,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            9,
+            15,
+            11,
+            8,
+            5,
+            12
           ],
           "playerPoints": [
             6,
@@ -14375,7 +14641,7 @@
               "total": 3.5
             }
           ],
-          "total": 72.5,
+          "total": 132.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14420,13 +14686,13 @@
             11,
             0,
             12,
+            3,
+            11,
             0,
+            15,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
+            11,
+            24
           ],
           "playerPoints": [
             6,
@@ -14496,7 +14762,7 @@
               "total": 3.5
             }
           ],
-          "total": 78.5,
+          "total": 142.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14541,21 +14807,21 @@
             24,
             0,
             12,
+            11,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            15,
+            8,
+            11,
+            12
           ],
           "playerPoints": [
             6,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -14571,7 +14837,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Manchester City",
@@ -14599,14 +14865,27 @@
               "total": 6
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 118,
+          "total": 189.5,
           "exactDouble": 0,
-          "roundWinner": false,
+          "roundWinner": true,
           "submitted": true
         },
         {
@@ -14649,13 +14928,13 @@
             15,
             0,
             12,
+            3,
+            11,
             0,
+            12,
             0,
-            0,
-            0,
-            0,
-            0,
-            0
+            12,
+            22
           ],
           "playerPoints": [
             6,
@@ -14725,7 +15004,7 @@
               "total": 3.5
             }
           ],
-          "total": 113.5,
+          "total": 173.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -14770,21 +15049,21 @@
             24,
             0,
             11,
+            11,
             0,
             0,
+            15,
             0,
-            0,
-            0,
-            0,
-            0
+            12,
+            11
           ],
           "playerPoints": [
             10,
-            0
+            3.5
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -14800,7 +15079,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Manchester City",
@@ -14834,19 +15113,32 @@
               "total": 10
             },
             {
-              "status": "pending",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 3.5
             }
           ],
-          "total": 133,
+          "total": 185.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
-      "complete": false,
-      "max": 133,
+      "complete": true,
+      "max": 189.5,
       "tipsRevealed": true
     },
     {
@@ -19384,7 +19676,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 56,
-      "total": 622,
+      "total": 682,
       "rank": 1,
       "finance": 8000
     },
@@ -19393,25 +19685,25 @@
       "roundWins": 1,
       "exactDoubles": 1,
       "playerPoints": 51.5,
-      "total": 598,
+      "total": 669,
       "rank": 2,
       "finance": 4000
-    },
-    {
-      "alias": "Mráva",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 54.5,
-      "total": 594.5,
-      "rank": 3,
-      "finance": 1500
     },
     {
       "alias": "Andy",
       "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 31.5,
-      "total": 591.5,
+      "playerPoints": 36.5,
+      "total": 668.5,
+      "rank": 3,
+      "finance": 1500
+    },
+    {
+      "alias": "Mráva",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 58,
+      "total": 647,
       "rank": 4,
       "finance": -500
     },
@@ -19420,16 +19712,16 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34,
-      "total": 569,
+      "total": 643,
       "rank": 5,
       "finance": -1000
     },
     {
       "alias": "Jayda",
-      "roundWins": 0,
+      "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 35.5,
-      "total": 568,
+      "playerPoints": 39,
+      "total": 639.5,
       "rank": 6,
       "finance": -1500
     },
@@ -19438,7 +19730,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 48.5,
-      "total": 549.5,
+      "total": 623.5,
       "rank": 7,
       "finance": -2000
     },
@@ -19447,7 +19739,7 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 43,
-      "total": 535.5,
+      "total": 599.5,
       "rank": 8,
       "finance": -2500
     },
@@ -19455,8 +19747,8 @@
       "alias": "Giorgio",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 48.5,
-      "total": 517.5,
+      "playerPoints": 52,
+      "total": 591,
       "rank": 9,
       "finance": -3000
     },
@@ -19465,13 +19757,13 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 47,
-      "total": 508,
+      "total": 568,
       "rank": 10,
       "finance": -3500
     }
   ],
   "news": {
-    "round": 3,
+    "round": 4,
     "groupMoment": null
   },
   "missingRound1": [],
@@ -19883,17 +20175,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-04T20:28:52.634589+00:00",
-  "fingerprint": "68cf7702ad7307684fcc9a58e355301ff87ade52a42acbc04f022793014ffa31",
+  "generatedAt": "2026-11-05T14:27:42.432426+00:00",
+  "fingerprint": "195f419b458b2354629bb11245ef181e5c81956865f60e0f94fad69fbfb9b7e6",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-04T20:28:52.634771+00:00",
-    "lastDataChangeAt": "2026-11-04T20:28:52.634589+00:00",
-    "fingerprint": "68cf7702ad7307684fcc9a58e355301ff87ade52a42acbc04f022793014ffa31",
+    "lastSuccessfulRunAt": "2026-11-05T14:27:42.432676+00:00",
+    "lastDataChangeAt": "2026-11-05T14:27:42.432426+00:00",
+    "fingerprint": "195f419b458b2354629bb11245ef181e5c81956865f60e0f94fad69fbfb9b7e6",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-04T20:27:49.393932+00:00",
-      "whatsappFetchedAt": "2026-11-04T20:27:50.985Z"
+      "footballFetchedAt": "2026-11-05T14:26:58.020428+00:00",
+      "whatsappFetchedAt": "2026-11-05T14:26:59.190Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -19913,8 +20205,7 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "pending": 4,
-          "resolved": 75
+          "resolved": 79
         },
         "methods": {
           "exact": 32,
