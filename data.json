@@ -43,6 +43,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "238490",
+      "catalogId": "espn:238490",
+      "name": "Dereck Kutesa",
+      "team": "AEK Athens",
+      "position": "Center Left Forward"
+    },
+    {
       "providerId": "148110",
       "catalogId": "espn:148110",
       "name": "Domagoj Vida",
@@ -249,6 +256,13 @@
       "providerId": "265921",
       "catalogId": "espn:265921",
       "name": "Illan Meslier",
+      "team": "Arsenal",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "390095",
+      "catalogId": "espn:390095",
+      "name": "Jack Porter",
       "team": "Arsenal",
       "position": "Substitute"
     },
@@ -1331,6 +1345,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "359286",
+      "catalogId": "espn:359286",
+      "name": "Isak Sjong",
+      "team": "Bodo/Glimt",
+      "position": "Substitute"
+    },
+    {
       "providerId": "235789",
       "catalogId": "espn:235789",
       "name": "Jens Petter Hauge",
@@ -1826,6 +1847,13 @@
       "name": "Assane Diao",
       "team": "Como",
       "position": "Attacking Midfielder Right"
+    },
+    {
+      "providerId": "5334374",
+      "catalogId": "espn:5334374",
+      "name": "Cristian Mazzara",
+      "team": "Como",
+      "position": "Substitute"
     },
     {
       "providerId": "5330604",
@@ -2363,6 +2391,13 @@
       "providerId": "402344",
       "catalogId": "espn:402344",
       "name": "Gaoussou Diarra",
+      "team": "Feyenoord Rotterdam",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "240911",
+      "catalogId": "espn:240911",
+      "name": "Gijs Smal",
       "team": "Feyenoord Rotterdam",
       "position": "Substitute"
     },
@@ -3121,6 +3156,13 @@
       "name": "Kyllian Antonio",
       "team": "Lens",
       "position": "Center Right Defender"
+    },
+    {
+      "providerId": "5334373",
+      "catalogId": "espn:5334373",
+      "name": "Leopold Joursky",
+      "team": "Lens",
+      "position": "Substitute"
     },
     {
       "providerId": "131742",
@@ -4124,6 +4166,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "413630",
+      "catalogId": "espn:413630",
+      "name": "David Spinelli",
+      "team": "Napoli",
+      "position": "Substitute"
+    },
+    {
       "providerId": "215721",
       "catalogId": "espn:215721",
       "name": "Frank Anguissa",
@@ -4565,6 +4614,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "224042",
+      "catalogId": "espn:224042",
+      "name": "Sam Lammers",
+      "team": "PSV Eindhoven",
+      "position": "Substitute"
+    },
+    {
       "providerId": "266291",
       "catalogId": "espn:266291",
       "name": "Sergiño Dest",
@@ -4771,6 +4827,13 @@
       "providerId": "366911",
       "catalogId": "espn:366911",
       "name": "Tidiam Gomis",
+      "team": "RB Leipzig",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "5334375",
+      "catalogId": "espn:5334375",
+      "name": "Toni Stefan Langsteiner",
       "team": "RB Leipzig",
       "position": "Substitute"
     },
@@ -5720,6 +5783,13 @@
       "position": "Center Right Midfielder"
     },
     {
+      "providerId": "312584",
+      "catalogId": "espn:312584",
+      "name": "Adam Griger",
+      "team": "Slovan Bratislava",
+      "position": "Substitute"
+    },
+    {
       "providerId": "401989",
       "catalogId": "espn:401989",
       "name": "Alasana Yirajang",
@@ -5783,6 +5853,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "3107817",
+      "catalogId": "espn:3107817",
+      "name": "Daniel Gramblička",
+      "team": "Slovan Bratislava",
+      "position": "Substitute"
+    },
+    {
       "providerId": "275396",
       "catalogId": "espn:275396",
       "name": "Danylo Ignatenko",
@@ -5821,6 +5898,13 @@
       "providerId": "258736",
       "catalogId": "espn:258736",
       "name": "Matus Macik",
+      "team": "Slovan Bratislava",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "381464",
+      "catalogId": "espn:381464",
+      "name": "Maximilian Marko",
       "team": "Slovan Bratislava",
       "position": "Substitute"
     },
@@ -15153,12 +15237,21 @@
           "away": "Aston Villa",
           "id": "ucl-5-401915300",
           "kickoff": "2026-11-24T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Galatasaray",
+              "scorer": "Deniz Gül",
+              "assist": "",
+              "minute": "77'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915300"
         },
         {
@@ -15168,12 +15261,21 @@
           "away": "LASK Linz",
           "id": "ucl-5-401915380",
           "kickoff": "2026-11-24T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bodo/Glimt",
+              "scorer": "Melayro Bogarde",
+              "assist": "",
+              "minute": "90'+2'",
+              "ownGoal": true,
+              "penalty": false
+            }
+          ],
           "providerId": "401915380"
         },
         {
@@ -15183,12 +15285,21 @@
           "away": "FC Porto",
           "id": "ucl-5-401915294",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "FC Porto",
+              "scorer": "Oussama Targhaline",
+              "assist": "",
+              "minute": "2'",
+              "ownGoal": true,
+              "penalty": false
+            }
+          ],
           "providerId": "401915294"
         },
         {
@@ -15198,12 +15309,29 @@
           "away": "Borussia Dortmund",
           "id": "ucl-5-401915295",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Arsenal",
+              "scorer": "Viktor Gyökeres",
+              "assist": "Noni Madueke",
+              "minute": "10'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Borussia Dortmund",
+              "scorer": "Maximilian Beier",
+              "assist": "Kouakou Gadou",
+              "minute": "55'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915295"
         },
         {
@@ -15213,12 +15341,21 @@
           "away": "AEK Athens",
           "id": "ucl-5-401915296",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 0,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Como",
+              "scorer": "Luis Milla",
+              "assist": "Martin Baturina",
+              "minute": "57'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915296"
         },
         {
@@ -15228,12 +15365,29 @@
           "away": "Real Betis",
           "id": "ucl-5-401915297",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Real Betis",
+              "scorer": "Cucho Hernández",
+              "assist": "Ángel Ortiz",
+              "minute": "43'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Betis",
+              "scorer": "Cucho Hernández",
+              "assist": "Isco",
+              "minute": "57'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915297"
         },
         {
@@ -15243,12 +15397,61 @@
           "away": "PSV Eindhoven",
           "id": "ucl-5-401915298",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 5,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "PSV Eindhoven",
+              "scorer": "Ivan Perisic",
+              "assist": "",
+              "minute": "32'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Federico Valverde",
+              "assist": "Arda Güler",
+              "minute": "50'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Jude Bellingham",
+              "assist": "Kylian Mbappé",
+              "minute": "60'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Kylian Mbappé",
+              "assist": "Arda Güler",
+              "minute": "64'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Kylian Mbappé",
+              "assist": "Brahim Díaz",
+              "minute": "84'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Real Madrid",
+              "scorer": "Vinícius Júnior",
+              "assist": "Jude Bellingham",
+              "minute": "87'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915298"
         },
         {
@@ -15258,12 +15461,45 @@
           "away": "Lens",
           "id": "ucl-5-401915299",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 3,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "RB Leipzig",
+              "scorer": "David Raum",
+              "assist": "",
+              "minute": "6'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "RB Leipzig",
+              "scorer": "Antonio Nusa",
+              "assist": "",
+              "minute": "9'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Lens",
+              "scorer": "Matthieu Udol",
+              "assist": "",
+              "minute": "58'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "RB Leipzig",
+              "scorer": "Antonio Nusa",
+              "assist": "Christopher Nkunku",
+              "minute": "90'+4'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915299"
         },
         {
@@ -15273,12 +15509,45 @@
           "away": "Napoli",
           "id": "ucl-5-401915379",
           "kickoff": "2026-11-24T20:00Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 2,
+          "awayGoals": 2,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Napoli",
+              "scorer": "Rasmus Højlund",
+              "assist": "Billy Gilmour",
+              "minute": "55'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Ayyoub Bouaddi",
+              "assist": "Jérémy Doku",
+              "minute": "67'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Napoli",
+              "scorer": "Noa Lang",
+              "assist": "Leonardo Spinazzola",
+              "minute": "76'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Manchester City",
+              "scorer": "Rayan Cherki",
+              "assist": "Iliman Ndiaye",
+              "minute": "86'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915379"
         },
         {
@@ -15420,43 +15689,42 @@
       "entries": [
         {
           "alias": "Andy",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:2",
+            "3:2",
+            "1:1",
+            "2:1",
+            "3:1",
+            "1:2",
+            "4:1",
+            "3:1",
+            "2:1",
+            "1:2",
+            "1:2",
+            "3:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Jude Bellingham"
           ],
           "matchPoints": [
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            9,
+            5,
+            5,
+            10,
+            12,
+            24,
+            15,
+            5,
             0,
             0,
             0,
@@ -15468,12 +15736,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            14,
+            4.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15481,67 +15749,109 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Jude Bellingham",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "goal",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 4.5
             }
           ],
-          "total": 0,
+          "total": 103.5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Pospec",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:0",
+            "3:1",
+            "1:2",
+            "3:1",
+            "2:0",
+            "2:1",
+            "1:2",
+            "0:3",
+            "3:1",
+            "1:2",
+            "2:1",
+            "2:0",
+            "2:2",
+            "2:0",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Raphinha"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            11,
+            5,
+            10,
+            12,
+            22,
+            11,
+            5,
             0,
             0,
             0,
@@ -15553,11 +15863,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -15566,67 +15876,96 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 112,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Maara",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "3:0",
+            "0:2",
+            "3:1",
+            "3:1",
+            "2:1",
+            "2:2",
+            "1:4",
+            "3:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "3:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Raphinha"
           ],
           "matchPoints": [
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            5,
+            11,
+            15,
+            22,
+            15,
+            5,
             0,
             0,
             0,
@@ -15638,11 +15977,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -15651,67 +15990,96 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 109,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Giorgio",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "3:1",
+            "2:1",
+            "3:1",
+            "1:1",
+            "1:3",
+            "2:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 6,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Erling Haaland"
           ],
           "matchPoints": [
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            5,
+            11,
+            12,
+            22,
+            12,
+            2,
             0,
             0,
             0,
@@ -15723,12 +16091,12 @@
             0
           ],
           "playerPoints": [
-            0,
-            0
+            14,
+            0.5
           ],
           "playerCompleted": [
-            false,
-            false
+            true,
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15736,67 +16104,103 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Manchester City",
+              "sourceName": "Erling Haaland",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 100.5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mudras",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2:1",
+            "3:1",
+            "1:2",
+            "2:1",
+            "3:1",
+            "0:3",
+            "3:1",
+            "2:1",
+            "2:2",
+            "1:2",
+            "0:4",
+            "2:0",
+            "1:2",
+            "3:1",
+            "2:1",
+            "1:2",
+            "3:1",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 10,
           "players": [
-            "",
-            ""
+            "Raphinha",
+            "Tasos Douvikas"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            10,
+            11,
+            5,
+            10,
+            12,
+            11,
+            12,
+            15,
             0,
             0,
             0,
@@ -15809,11 +16213,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            0.5
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15821,67 +16225,84 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Como",
+              "sourceName": "Tasos Douvikas",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                }
+              ],
+              "total": 0.5
             }
           ],
-          "total": 0,
+          "total": 97.5,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Závodka",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "2:1",
+            "1:3",
+            "1:0",
+            "2:0",
+            "0:3",
+            "3:2",
+            "2:0",
+            "2:1",
+            "2:2",
+            "1:4",
+            "3:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "0:3"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 10,
           "players": [
-            "",
-            ""
+            "Lamine Yamal",
+            "Kylian Mbappé"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            5,
+            11,
+            10,
+            5,
+            12,
+            12,
+            10,
+            11,
+            5,
             0,
             0,
             0,
@@ -15894,11 +16315,11 @@
           ],
           "playerPoints": [
             0,
-            0
+            8
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15906,67 +16327,96 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Lamine Yamal",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 3,
+                  "points": 6
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 1.5,
+                  "points": 1.5
+                }
+              ],
+              "total": 8
             }
           ],
-          "total": 0,
+          "total": 89,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Dvorek",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:2",
+            "3:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "1:3",
+            "2:1",
+            "1:2",
+            "1:1",
+            "2:1",
+            "1:1",
+            "2:1",
+            "1:3"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 17,
           "players": [
-            "",
-            ""
+            "Ethan Mbappé",
+            "Nico Paz"
           ],
           "matchPoints": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            5,
+            11,
+            11,
+            5,
+            11,
+            12,
+            11,
+            12,
+            5,
             0,
             0,
             0,
@@ -15983,7 +16433,7 @@
           ],
           "playerCompleted": [
             false,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15991,67 +16441,90 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Lille",
+              "sourceName": "Ethan Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Como",
+              "sourceName": "Nico Paz",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
-              "components": [],
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 0.5,
+                  "points": 0.5
+                },
+                {
+                  "key": "yellow",
+                  "count": 1,
+                  "weight": -0.5,
+                  "points": -0.5
+                }
+              ],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 83,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Jayda",
-          "submitted": false,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:1",
+            "1:2",
+            "2:1",
+            "2:0",
+            "0:2",
+            "3:1",
+            "2:1",
+            "2:1",
+            "1:2",
+            "0:3",
+            "2:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:0",
+            "2:1",
+            "0:1"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 10,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Raphinha"
           ],
           "matchPoints": [
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            11,
+            11,
+            5,
+            12,
+            15,
+            11,
+            12,
+            5,
             0,
             0,
             0,
@@ -16063,11 +16536,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -16076,67 +16549,96 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 96,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "JR",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:2",
+            "2:1",
+            "2:1",
+            "2:0",
+            "3:0",
+            "0:2",
+            "3:0",
+            "3:0",
+            "2:0",
+            "1:2",
+            "0:3",
+            "3:0",
+            "1:2",
+            "2:1",
+            "2:1",
+            "1:1",
+            "2:0",
+            "1:2"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 11,
           "players": [
-            "",
-            ""
+            "Kylian Mbappé",
+            "Raphinha"
           ],
           "matchPoints": [
             0,
+            11,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            2,
+            11,
+            15,
+            10,
+            12,
+            4,
             0,
             0,
             0,
@@ -16148,11 +16650,11 @@
             0
           ],
           "playerPoints": [
-            0,
+            14,
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -16161,67 +16663,96 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "resolved",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Real Madrid",
+              "sourceName": "Kylian Mbappé",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "provider_id",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
-              "components": [],
-              "total": 0
+              "status": "resolved",
+              "components": [
+                {
+                  "key": "start",
+                  "count": 1,
+                  "weight": 1,
+                  "points": 1
+                },
+                {
+                  "key": "goal",
+                  "count": 2,
+                  "weight": 5,
+                  "points": 10
+                },
+                {
+                  "key": "assist",
+                  "count": 1,
+                  "weight": 3,
+                  "points": 3
+                }
+              ],
+              "total": 14
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 79,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         },
         {
           "alias": "Mráva",
-          "submitted": true,
-          "imported": false,
+          "imported": true,
           "tips": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "1:1",
+            "1:0",
+            "2:1",
+            "2:0",
+            "3:0",
+            "1:3",
+            "3:1",
+            "1:1",
+            "2:1",
+            "2:1",
+            "0:4",
+            "3:0",
+            "1:2",
+            "2:2",
+            "3:1",
+            "1:1",
+            "2:1",
+            "0:3"
           ],
-          "doubleIndex": null,
+          "doubleIndex": 10,
           "players": [
-            "",
-            ""
+            "Raphinha",
+            "Julián Álvarez"
           ],
           "matchPoints": [
+            5,
+            15,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            2,
+            11,
+            11,
+            11,
+            4,
+            5,
             0,
             0,
             0,
@@ -16246,32 +16777,43 @@
           ],
           "playerStatuses": [
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Barcelona",
+              "sourceName": "Raphinha",
+              "suggestions": []
             },
             {
-              "status": "hidden"
+              "status": "pending",
+              "resolution": "exact",
+              "confidence": 1,
+              "team": "Atlético Madrid",
+              "sourceName": "Julián Álvarez",
+              "suggestions": []
             }
           ],
           "playerBreakdowns": [
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             },
             {
-              "status": "hidden",
+              "status": "pending",
               "components": [],
               "total": 0
             }
           ],
-          "total": 0,
+          "total": 64,
           "exactDouble": 0,
-          "roundWinner": false
+          "roundWinner": false,
+          "submitted": true
         }
       ],
       "complete": false,
-      "max": 0,
-      "tipsRevealed": false
+      "max": 112,
+      "tipsRevealed": true
     },
     {
       "round": 6,
@@ -19672,83 +20214,83 @@
   ],
   "standings": [
     {
-      "alias": "JR",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 56,
-      "total": 682,
-      "rank": 1,
-      "finance": 8000
-    },
-    {
       "alias": "Maara",
       "roundWins": 1,
       "exactDoubles": 1,
-      "playerPoints": 51.5,
-      "total": 669,
-      "rank": 2,
-      "finance": 4000
+      "playerPoints": 65.5,
+      "total": 778,
+      "rank": 1,
+      "finance": 8000
     },
     {
       "alias": "Andy",
       "roundWins": 1,
       "exactDoubles": 0,
-      "playerPoints": 36.5,
-      "total": 668.5,
+      "playerPoints": 55,
+      "total": 772,
+      "rank": 2,
+      "finance": 4000
+    },
+    {
+      "alias": "JR",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 70,
+      "total": 761,
       "rank": 3,
       "finance": 1500
+    },
+    {
+      "alias": "Mudras",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 34.5,
+      "total": 740.5,
+      "rank": 4,
+      "finance": -500
+    },
+    {
+      "alias": "Jayda",
+      "roundWins": 1,
+      "exactDoubles": 0,
+      "playerPoints": 53,
+      "total": 735.5,
+      "rank": 5,
+      "finance": -1000
+    },
+    {
+      "alias": "Pospec",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 62.5,
+      "total": 735.5,
+      "rank": 6,
+      "finance": -1500
     },
     {
       "alias": "Mráva",
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 58,
-      "total": 647,
-      "rank": 4,
-      "finance": -500
-    },
-    {
-      "alias": "Mudras",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 34,
-      "total": 643,
-      "rank": 5,
-      "finance": -1000
-    },
-    {
-      "alias": "Jayda",
-      "roundWins": 1,
-      "exactDoubles": 0,
-      "playerPoints": 39,
-      "total": 639.5,
-      "rank": 6,
-      "finance": -1500
-    },
-    {
-      "alias": "Pospec",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 48.5,
-      "total": 623.5,
+      "total": 711,
       "rank": 7,
       "finance": -2000
+    },
+    {
+      "alias": "Giorgio",
+      "roundWins": 0,
+      "exactDoubles": 0,
+      "playerPoints": 66.5,
+      "total": 691.5,
+      "rank": 8,
+      "finance": -2500
     },
     {
       "alias": "Dvorek",
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 43,
-      "total": 599.5,
-      "rank": 8,
-      "finance": -2500
-    },
-    {
-      "alias": "Giorgio",
-      "roundWins": 0,
-      "exactDoubles": 0,
-      "playerPoints": 52,
-      "total": 591,
+      "total": 682.5,
       "rank": 9,
       "finance": -3000
     },
@@ -19756,8 +20298,8 @@
       "alias": "Závodka",
       "roundWins": 0,
       "exactDoubles": 0,
-      "playerPoints": 47,
-      "total": 568,
+      "playerPoints": 55,
+      "total": 657,
       "rank": 10,
       "finance": -3500
     }
@@ -20175,17 +20717,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-24T12:04:47.223267+00:00",
-  "fingerprint": "16625d1b8aa95a1f19b134eca3bb77d649c4b701594c72ce8dbde979f1347a2a",
+  "generatedAt": "2026-11-24T22:57:46.081848+00:00",
+  "fingerprint": "28889b8f7864c23b00463c5c39d267f73d19c4c628303e7b23cccb9c357d2c63",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-24T12:04:47.223450+00:00",
-    "lastDataChangeAt": "2026-11-24T12:04:47.223267+00:00",
-    "fingerprint": "16625d1b8aa95a1f19b134eca3bb77d649c4b701594c72ce8dbde979f1347a2a",
+    "lastSuccessfulRunAt": "2026-11-24T22:57:46.082040+00:00",
+    "lastDataChangeAt": "2026-11-24T22:57:46.081848+00:00",
+    "fingerprint": "28889b8f7864c23b00463c5c39d267f73d19c4c628303e7b23cccb9c357d2c63",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-24T12:03:46.296970+00:00",
-      "whatsappFetchedAt": "2026-11-24T12:03:47.248Z"
+      "footballFetchedAt": "2026-11-24T22:56:54.436042+00:00",
+      "whatsappFetchedAt": "2026-11-24T22:56:55.430Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -20205,11 +20747,12 @@
       "playerResolution": {
         "statuses": {
           "did_not_play": 1,
-          "resolved": 79
+          "pending": 9,
+          "resolved": 90
         },
         "methods": {
-          "exact": 32,
-          "provider_id": 48
+          "exact": 36,
+          "provider_id": 64
         },
         "completedRoundReviews": 0,
         "fuzzyMatches": 0,
