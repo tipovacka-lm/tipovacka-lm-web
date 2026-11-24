@@ -15845,7 +15845,7 @@
         },
         {
           "alias": "Závodka",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -16100,7 +16100,7 @@
         },
         {
           "alias": "JR",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -16185,7 +16185,7 @@
         },
         {
           "alias": "Mráva",
-          "submitted": false,
+          "submitted": true,
           "imported": false,
           "tips": [
             "",
@@ -20175,17 +20175,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-22T19:07:44.912154+00:00",
-  "fingerprint": "195f419b458b2354629bb11245ef181e5c81956865f60e0f94fad69fbfb9b7e6",
+  "generatedAt": "2026-11-24T12:04:47.223267+00:00",
+  "fingerprint": "16625d1b8aa95a1f19b134eca3bb77d649c4b701594c72ce8dbde979f1347a2a",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-22T19:07:44.912331+00:00",
-    "lastDataChangeAt": "2026-11-22T19:07:44.912154+00:00",
-    "fingerprint": "195f419b458b2354629bb11245ef181e5c81956865f60e0f94fad69fbfb9b7e6",
+    "lastSuccessfulRunAt": "2026-11-24T12:04:47.223450+00:00",
+    "lastDataChangeAt": "2026-11-24T12:04:47.223267+00:00",
+    "fingerprint": "16625d1b8aa95a1f19b134eca3bb77d649c4b701594c72ce8dbde979f1347a2a",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-22T19:06:59.494882+00:00",
-      "whatsappFetchedAt": "2026-11-22T19:07:00.393Z"
+      "footballFetchedAt": "2026-11-24T12:03:46.296970+00:00",
+      "whatsappFetchedAt": "2026-11-24T12:03:47.248Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
