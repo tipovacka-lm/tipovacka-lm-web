@@ -1282,6 +1282,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "3104145",
+      "catalogId": "espn:3104145",
+      "name": "Noah Codjo-Evora",
+      "team": "Bayern Munich",
+      "position": "Substitute"
+    },
+    {
       "providerId": "287225",
       "catalogId": "espn:287225",
       "name": "Sacha Boey",
@@ -2857,6 +2864,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "409052",
+      "catalogId": "espn:409052",
+      "name": "Leonardo Bovo",
+      "team": "Internazionale",
+      "position": "Substitute"
+    },
+    {
       "providerId": "286369",
       "catalogId": "espn:286369",
       "name": "Luis Henrique",
@@ -4023,7 +4037,7 @@
       "catalogId": "espn:167127",
       "name": "Luke Shaw",
       "team": "Manchester United",
-      "position": "Left Back"
+      "position": "Substitute"
     },
     {
       "providerId": "230945",
@@ -5503,6 +5517,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "200651",
+      "catalogId": "espn:200651",
+      "name": "Marlon",
+      "team": "Shakhtar Donetsk",
+      "position": "Substitute"
+    },
+    {
       "providerId": "314851",
       "catalogId": "espn:314851",
       "name": "Marlon Gomes",
@@ -6000,6 +6021,13 @@
       "position": "Right Midfielder"
     },
     {
+      "providerId": "329031",
+      "catalogId": "espn:329031",
+      "name": "Diego Callai",
+      "team": "Sporting CP",
+      "position": ""
+    },
+    {
       "providerId": "398054",
       "catalogId": "espn:398054",
       "name": "Eduardo Felicíssimo",
@@ -6371,6 +6399,13 @@
       "position": "Substitute"
     },
     {
+      "providerId": "272701",
+      "catalogId": "espn:272701",
+      "name": "Anders Baertelsen",
+      "team": "Viking FK",
+      "position": "Substitute"
+    },
+    {
       "providerId": "149479",
       "catalogId": "espn:149479",
       "name": "Arild Østbø",
@@ -6514,6 +6549,13 @@
       "providerId": "377601",
       "catalogId": "espn:377601",
       "name": "Vetle Auklend",
+      "team": "Viking FK",
+      "position": "Substitute"
+    },
+    {
+      "providerId": "162495",
+      "catalogId": "espn:162495",
+      "name": "Veton Berisha",
       "team": "Viking FK",
       "position": "Substitute"
     },
@@ -15585,12 +15627,21 @@
           "away": "Villarreal",
           "id": "ucl-5-401915293",
           "kickoff": "2026-11-25T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 0,
+          "awayGoals": 1,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Villarreal",
+              "scorer": "Tajon Buchanan",
+              "assist": "Ayoze Pérez",
+              "minute": "62'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915293"
         },
         {
@@ -15600,12 +15651,53 @@
           "away": "Barcelona",
           "id": "ucl-5-401915378",
           "kickoff": "2026-11-25T17:45Z",
-          "completed": false,
-          "homeGoals": null,
-          "awayGoals": null,
+          "completed": true,
+          "homeGoals": 1,
+          "awayGoals": 4,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Barcelona",
+              "scorer": "Anthony Gordon",
+              "assist": "",
+              "minute": "31'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Anthony Gordon",
+              "assist": "",
+              "minute": "51'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Karim Adeyemi",
+              "assist": "Alejandro Balde",
+              "minute": "55'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Barcelona",
+              "scorer": "Gabriel Jesus",
+              "assist": "",
+              "minute": "60'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Sabah FK",
+              "scorer": "Joy-Lance Mickels",
+              "assist": "Christian Nwachukwu",
+              "minute": "63'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915378"
         },
         {
@@ -15620,7 +15712,24 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Atlético Madrid",
+              "scorer": "Alexander Sørloth",
+              "assist": "Alejandro Grimaldo",
+              "minute": "19'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Atlético Madrid",
+              "scorer": "Julián Álvarez",
+              "assist": "",
+              "minute": "24'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915291"
         },
         {
@@ -15635,7 +15744,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Liverpool",
+              "scorer": "Alexander Isak",
+              "assist": "Dominik Szoboszlai",
+              "minute": "13'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915292"
         },
         {
@@ -15650,7 +15768,24 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Sporting CP",
+              "scorer": "Luis Suárez",
+              "assist": "",
+              "minute": "33'",
+              "ownGoal": false,
+              "penalty": true
+            },
+            {
+              "team": "Manchester United",
+              "scorer": "Bruno Fernandes",
+              "assist": "",
+              "minute": "48'",
+              "ownGoal": false,
+              "penalty": true
+            }
+          ],
           "providerId": "401915373"
         },
         {
@@ -15665,7 +15800,24 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "AS Roma",
+              "scorer": "Mario Hermoso",
+              "assist": "Matìas Soulè",
+              "minute": "5'",
+              "ownGoal": false,
+              "penalty": false
+            },
+            {
+              "team": "Paris Saint-Germain",
+              "scorer": "Illia Zabarnyi",
+              "assist": "Senny Mayulu",
+              "minute": "31'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915374"
         },
         {
@@ -15710,7 +15862,16 @@
           "awayGoals": null,
           "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
           "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-          "goals": [],
+          "goals": [
+            {
+              "team": "Bayern Munich",
+              "scorer": "Dayot Upamecano",
+              "assist": "Tom Bischof",
+              "minute": "15'",
+              "ownGoal": false,
+              "penalty": false
+            }
+          ],
           "providerId": "401915377"
         }
       ],
@@ -15753,8 +15914,8 @@
             24,
             15,
             5,
-            0,
-            0,
+            11,
+            11,
             0,
             0,
             0,
@@ -15837,7 +15998,7 @@
               "total": 4.5
             }
           ],
-          "total": 103.5,
+          "total": 125.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -15880,8 +16041,8 @@
             22,
             11,
             5,
-            0,
-            0,
+            11,
+            11,
             0,
             0,
             0,
@@ -15896,7 +16057,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -15912,7 +16073,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -15946,12 +16107,12 @@
               "total": 14
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 112,
+          "total": 134,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -15995,7 +16156,7 @@
             15,
             5,
             0,
-            0,
+            15,
             0,
             0,
             0,
@@ -16010,7 +16171,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -16026,7 +16187,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -16060,12 +16221,12 @@
               "total": 14
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 109,
+          "total": 124,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16108,8 +16269,8 @@
             22,
             12,
             2,
-            0,
-            0,
+            5,
+            12,
             0,
             0,
             0,
@@ -16186,7 +16347,7 @@
               "total": 0.5
             }
           ],
-          "total": 100.5,
+          "total": 117.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16229,8 +16390,8 @@
             11,
             12,
             15,
-            0,
-            0,
+            11,
+            24,
             0,
             0,
             0,
@@ -16244,7 +16405,7 @@
             0.5
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -16253,7 +16414,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -16271,7 +16432,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -16288,7 +16449,7 @@
               "total": 0.5
             }
           ],
-          "total": 97.5,
+          "total": 132.5,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16332,7 +16493,7 @@
             11,
             5,
             0,
-            0,
+            30,
             0,
             0,
             0,
@@ -16346,7 +16507,7 @@
             8
           ],
           "playerCompleted": [
-            false,
+            true,
             true
           ],
           "playerUnresolved": [
@@ -16355,7 +16516,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "resolution": "exact",
               "confidence": 1,
               "team": "Barcelona",
@@ -16373,7 +16534,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "did_not_play",
               "components": [],
               "total": 0
             },
@@ -16402,8 +16563,8 @@
               "total": 8
             }
           ],
-          "total": 89,
-          "exactDouble": 0,
+          "total": 119,
+          "exactDouble": 1,
           "roundWinner": false,
           "submitted": true
         },
@@ -16445,8 +16606,8 @@
             11,
             12,
             5,
-            0,
-            0,
+            11,
+            12,
             0,
             0,
             0,
@@ -16510,7 +16671,7 @@
               "total": 0
             }
           ],
-          "total": 83,
+          "total": 106,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16553,8 +16714,8 @@
             11,
             12,
             5,
-            0,
-            0,
+            11,
+            22,
             0,
             0,
             0,
@@ -16569,7 +16730,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -16585,7 +16746,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -16619,12 +16780,12 @@
               "total": 14
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 96,
+          "total": 129,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16667,8 +16828,8 @@
             10,
             12,
             4,
-            0,
-            0,
+            11,
+            11,
             0,
             0,
             0,
@@ -16683,7 +16844,7 @@
           ],
           "playerCompleted": [
             true,
-            false
+            true
           ],
           "playerUnresolved": [
             false,
@@ -16699,7 +16860,7 @@
               "suggestions": []
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "provider_id",
               "confidence": 1,
               "team": "Barcelona",
@@ -16733,12 +16894,12 @@
               "total": 14
             },
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             }
           ],
-          "total": 79,
+          "total": 101,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
@@ -16782,7 +16943,7 @@
             4,
             5,
             0,
-            0,
+            24,
             0,
             0,
             0,
@@ -16796,7 +16957,7 @@
             0
           ],
           "playerCompleted": [
-            false,
+            true,
             false
           ],
           "playerUnresolved": [
@@ -16805,7 +16966,7 @@
           ],
           "playerStatuses": [
             {
-              "status": "pending",
+              "status": "resolved",
               "resolution": "exact",
               "confidence": 1,
               "team": "Barcelona",
@@ -16823,7 +16984,7 @@
           ],
           "playerBreakdowns": [
             {
-              "status": "pending",
+              "status": "resolved",
               "components": [],
               "total": 0
             },
@@ -16833,14 +16994,14 @@
               "total": 0
             }
           ],
-          "total": 64,
+          "total": 88,
           "exactDouble": 0,
           "roundWinner": false,
           "submitted": true
         }
       ],
       "complete": false,
-      "max": 112,
+      "max": 134,
       "tipsRevealed": true
     },
     {
@@ -20242,20 +20403,20 @@
   ],
   "standings": [
     {
-      "alias": "Maara",
-      "roundWins": 1,
-      "exactDoubles": 1,
-      "playerPoints": 65.5,
-      "total": 778,
-      "rank": 1,
-      "finance": 8000
-    },
-    {
       "alias": "Andy",
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 55,
-      "total": 772,
+      "total": 794,
+      "rank": 1,
+      "finance": 8000
+    },
+    {
+      "alias": "Maara",
+      "roundWins": 1,
+      "exactDoubles": 1,
+      "playerPoints": 65.5,
+      "total": 793,
       "rank": 2,
       "finance": 4000
     },
@@ -20264,7 +20425,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 70,
-      "total": 761,
+      "total": 783,
       "rank": 3,
       "finance": 1500
     },
@@ -20273,7 +20434,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 34.5,
-      "total": 740.5,
+      "total": 775.5,
       "rank": 4,
       "finance": -500
     },
@@ -20282,7 +20443,7 @@
       "roundWins": 1,
       "exactDoubles": 0,
       "playerPoints": 53,
-      "total": 735.5,
+      "total": 768.5,
       "rank": 5,
       "finance": -1000
     },
@@ -20291,7 +20452,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 62.5,
-      "total": 735.5,
+      "total": 757.5,
       "rank": 6,
       "finance": -1500
     },
@@ -20300,7 +20461,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 58,
-      "total": 711,
+      "total": 735,
       "rank": 7,
       "finance": -2000
     },
@@ -20309,7 +20470,7 @@
       "roundWins": 0,
       "exactDoubles": 0,
       "playerPoints": 66.5,
-      "total": 691.5,
+      "total": 708.5,
       "rank": 8,
       "finance": -2500
     },
@@ -20318,16 +20479,16 @@
       "roundWins": 0,
       "exactDoubles": 1,
       "playerPoints": 43,
-      "total": 682.5,
+      "total": 705.5,
       "rank": 9,
       "finance": -3000
     },
     {
       "alias": "Závodka",
       "roundWins": 0,
-      "exactDoubles": 0,
+      "exactDoubles": 1,
       "playerPoints": 55,
-      "total": 657,
+      "total": 687,
       "rank": 10,
       "finance": -3500
     }
@@ -20745,17 +20906,17 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-25T18:17:42.597347+00:00",
-  "fingerprint": "57c8579a1d77d5c87b104bcc80a01db682092ad8af86702aef420836f7d75380",
+  "generatedAt": "2026-11-25T21:09:44.931837+00:00",
+  "fingerprint": "59993ce0b6cf1132adba34c6a2d6e58e2a49b28bc1925d9dc7530c311d7b5a8a",
   "health": {
     "status": "ok",
-    "lastSuccessfulRunAt": "2026-11-25T18:17:42.597548+00:00",
-    "lastDataChangeAt": "2026-11-25T18:17:42.597347+00:00",
-    "fingerprint": "57c8579a1d77d5c87b104bcc80a01db682092ad8af86702aef420836f7d75380",
+    "lastSuccessfulRunAt": "2026-11-25T21:09:44.932055+00:00",
+    "lastDataChangeAt": "2026-11-25T21:09:44.931837+00:00",
+    "fingerprint": "59993ce0b6cf1132adba34c6a2d6e58e2a49b28bc1925d9dc7530c311d7b5a8a",
     "footballProvider": "ESPN public football feed",
     "sources": {
-      "footballFetchedAt": "2026-11-25T18:16:34.023583+00:00",
-      "whatsappFetchedAt": "2026-11-25T18:16:35.082Z"
+      "footballFetchedAt": "2026-11-25T21:08:48.663218+00:00",
+      "whatsappFetchedAt": "2026-11-25T21:08:49.978Z"
     },
     "whatsappFile": "",
     "whatsappLastMessageAt": null,
@@ -20774,9 +20935,9 @@
       "auditReasons": {},
       "playerResolution": {
         "statuses": {
-          "did_not_play": 1,
-          "pending": 9,
-          "resolved": 90
+          "did_not_play": 2,
+          "pending": 2,
+          "resolved": 96
         },
         "methods": {
           "exact": 36,
